@@ -1,0 +1,106 @@
+{
+  "yearsCovered": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "topicWiseAnalysis": [
+    {
+      "topic": "Reading Comprehension",
+      "totalQuestionsSampled": 180,
+      "averageFrequencyPerShift": 9.2,
+      "trend": "Increasingly focused on digital economy, climate finance, and fintech disruptions. Direct questions decreasing; inference & tone questions increasing.",
+      "repeatedConcepts": [
+        "Author's tone (Analytical vs Objective)",
+        "Vocabulary in specific contextual shade",
+        "Finding TRUE/FALSE statements based on 2-3 paragraphs"
+      ],
+      "priority": "🔥 MUST DO"
+    },
+    {
+      "topic": "Error Detection",
+      "totalQuestionsSampled": 115,
+      "averageFrequencyPerShift": 5.4,
+      "trend": "Shifted from isolated single errors to 'Find the correct sentence among four' or 'Sentence with underlined multi-choice segments'.",
+      "repeatedConcepts": [
+        "Subject-Verb Concord with proximity",
+        "Conditional third type inversion",
+        "Prepositional collocations ('adhere to', 'cope with')",
+        "Bare infinitive vs Gerund after 'look forward to'"
+      ],
+      "priority": "🔥 MUST DO"
+    },
+    {
+      "topic": "Cloze Test",
+      "totalQuestionsSampled": 95,
+      "averageFrequencyPerShift": 5.1,
+      "trend": "Mixed grammar-plus-contextual vocabulary. Blanks now heavily test prepositions and subtle connotation differences (ameliorate vs exacerbate).",
+      "repeatedConcepts": [
+        "Negative vs positive sentence polarity",
+        "Eliminating grammatically mismatched parts of speech",
+        "Collocation matching"
+      ],
+      "priority": "⭐ HIGH PRIORITY"
+    },
+    {
+      "topic": "Word Swap",
+      "totalQuestionsSampled": 65,
+      "averageFrequencyPerShift": 3.8,
+      "trend": "A major rising pattern in SBI and IBPS Clerk Prelims since 2021. Tests rapid contextual substitution between words in bold (A, B, C, D).",
+      "repeatedConcepts": [
+        "Nouns swapped with adjectives",
+        "Contextual contradiction (e.g. profit swapped with loss)"
+      ],
+      "priority": "⭐ HIGH PRIORITY"
+    },
+    {
+      "topic": "Fillers (Single / Double / Triple)",
+      "totalQuestionsSampled": 80,
+      "averageFrequencyPerShift": 4.5,
+      "trend": "Double fillers dominate Prelims; contextual fillers requiring same word in two sentences appear in Mains.",
+      "repeatedConcepts": [
+        "Grammar filter on Blank 1 ➔ Vocab filter on Blank 2",
+        "Connecting words like 'although' and 'despite' determining blank polarity"
+      ],
+      "priority": "⭐ HIGH PRIORITY"
+    },
+    {
+      "topic": "Para Jumbles & Sentence Rearrangement",
+      "totalQuestionsSampled": 75,
+      "averageFrequencyPerShift": 4.8,
+      "trend": "Conventional 5-sentence jumbles in Prelims; sentence-highlighted swaps and odd-sentence-out in Mains.",
+      "repeatedConcepts": [
+        "Locating independent nouns for first sentence",
+        "Tracking demonstrative pronouns ('This issue', 'These steps')"
+      ],
+      "priority": "🟢 IMPORTANT"
+    },
+    {
+      "topic": "Phrase Replacement / Sentence Improvement",
+      "totalQuestionsSampled": 55,
+      "averageFrequencyPerShift": 3.2,
+      "trend": "Emphasizes idioms, modal verbs, and parallel structure in business/banking correspondence.",
+      "repeatedConcepts": [
+        "'No sooner had... than'",
+        "'Not only... but also' parallel symmetry",
+        "'As well as' first subject agreement"
+      ],
+      "priority": "🟢 IMPORTANT"
+    },
+    {
+      "topic": "Spelling & Inappropriate Words",
+      "totalQuestionsSampled": 40,
+      "averageFrequencyPerShift": 2.5,
+      "trend": "Frequently tested in RRB Assistant and IBPS Clerk Prelims as quick scoring opportunities.",
+      "repeatedConcepts": [
+        "Doubled consonants (occurrence, accommodate, embarrass)",
+        "Confusing pairs (principal/principle, stationary/stationery)"
+      ],
+      "priority": "🟡 MODERATE"
+    }
+  ]
+}

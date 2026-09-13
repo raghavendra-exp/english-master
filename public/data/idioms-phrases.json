@@ -1,0 +1,92 @@
+[
+  {
+    "id": "id-01",
+    "idiom": "At the eleventh hour",
+    "meaning": "At the last possible moment before a deadline or catastrophe",
+    "hindi": "अंतिम क्षण में",
+    "example": "The consortium reached a debt restructuring agreement at the eleventh hour.",
+    "difficulty": "Easy",
+    "pyqTag": "SBI Clerk Prelims 2023"
+  },
+  {
+    "id": "id-02",
+    "idiom": "Bite the bullet",
+    "meaning": "To face an inevitable grim or painful situation with courage",
+    "hindi": "कड़वा घूंट पीना / मजबूरी में अप्रिय स्थिति स्वीकार करना",
+    "example": "The bank had to bite the bullet and write off the irrecoverable corporate bad debt.",
+    "difficulty": "Moderate",
+    "pyqTag": "IBPS Clerk Mains 2022"
+  },
+  {
+    "id": "id-03",
+    "idiom": "Burn the midnight oil",
+    "meaning": "To work or study late into the night",
+    "hindi": "देर रात तक कड़ी मेहनत करना",
+    "example": "The inspection team burned the midnight oil to finalize the compliance dossier.",
+    "difficulty": "Easy",
+    "pyqTag": "RRB Office Assistant 2022"
+  },
+  {
+    "id": "id-04",
+    "idiom": "Break the ice",
+    "meaning": "To initiate conversation and relieve tension in an awkward social situation",
+    "hindi": "झिझक मिटाना / बातचीत शुरू करना",
+    "example": "The customer relations executive shared a pleasant anecdote to break the ice.",
+    "difficulty": "Easy",
+    "pyqTag": "SBI Clerk 2021"
+  },
+  {
+    "id": "id-05",
+    "idiom": "Hit the nail on the head",
+    "meaning": "To state or identify the exact truth of a matter",
+    "hindi": "सटीक बात कहना / सही निष्कर्ष निकालना",
+    "example": "The economic advisor hit the nail on the head when highlighting supply chain bottlenecks.",
+    "difficulty": "Easy",
+    "pyqTag": "IBPS Clerk 2021"
+  },
+  {
+    "id": "id-06",
+    "idiom": "Through thick and thin",
+    "meaning": "Under all conditions, regardless of hardships or adversity",
+    "hindi": "सुख-दुख में / हर परिस्थिति में",
+    "example": "Loyal microfinance borrowers supported the cooperative through thick and thin.",
+    "difficulty": "Moderate",
+    "pyqTag": "SBI Clerk Mains 2024"
+  },
+  {
+    "id": "id-07",
+    "idiom": "In the red",
+    "meaning": "Operating at a financial loss or in debt",
+    "hindi": "घाटे में होना / कर्ज में होना",
+    "example": "The regional airline operated in the red for three consecutive financial quarters.",
+    "difficulty": "Moderate",
+    "pyqTag": "IBPS Clerk 2023"
+  },
+  {
+    "id": "id-08",
+    "idiom": "In the black",
+    "meaning": "Operating at a profit; financially solvent",
+    "hindi": "मुनाफे में होना",
+    "example": "Thanks to retail mortgage expansion, the newly merged bank is firmly back in the black.",
+    "difficulty": "Moderate",
+    "pyqTag": "SBI Clerk Mains 2022"
+  },
+  {
+    "id": "id-09",
+    "idiom": "A double-edged sword",
+    "meaning": "Something that has both favorable and unfavorable consequences",
+    "hindi": "दोधारी तलवार (लाभ और हानि दोनों देने वाला)",
+    "example": "Aggressive retail credit expansion is a double-edged sword during economic downturns.",
+    "difficulty": "Moderate",
+    "pyqTag": "IBPS RRB Scale-I 2023"
+  },
+  {
+    "id": "id-10",
+    "idiom": "Spill the beans",
+    "meaning": "To disclose a secret prematurely or indiscreetly",
+    "hindi": "राज़ खोलना / भेद उजागर करना",
+    "example": "A whistleblower spilled the beans regarding insider trading in the treasury desk.",
+    "difficulty": "Easy",
+    "pyqTag": "RRB Clerk 2021"
+  }
+]

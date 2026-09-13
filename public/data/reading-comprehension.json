@@ -1,0 +1,162 @@
+[
+  {
+    "id": "rc-01",
+    "title": "Central Bank Digital Currencies (CBDC) and the Architecture of Modern Retail Money",
+    "genre": "Banking & Monetary Economics",
+    "wordCount": 420,
+    "difficulty": "Moderate",
+    "pyqTag": "SBI Clerk Mains 2023 Pattern",
+    "readingTimeMinutes": 2.5,
+    "paragraphs": [
+      "In recent years, central banks across the globe have transitioned from cautious observers of cryptocurrency innovation to active architects of sovereign digital payment instruments. The advent of the Central Bank Digital Currency (CBDC), such as India's digital Rupee (e₹), marks a watershed moment in monetary history. Unlike commercial bank money—which constitutes an institutional liability subject to credit risk and prudential safety nets—a retail CBDC represents a direct sovereign liability of the monetary authority, fungible with physical currency notes at par.",
+      "The strategic impetus behind sovereign digital currencies extends beyond mere operational efficiency. Traditional payment conduits, although increasingly digitalized through unified payment interfaces, depend inextricably upon intermediaries: commercial banks, clearing houses, and payment gateway aggregators. While highly scalable, this multi-layered framework incurs subtle systemic frictions, including settlement latency and vulnerability to third-party outages. Retail CBDCs promise to democratize settlement by enabling offline, peer-to-peer (P2P) transfers that circumvent conventional clearing architectures.",
+      "Nevertheless, the transition toward a cash-free, state-issued digital ecosystem is fraught with structural dilemmas. The foremost hazard is commercial bank disintermediation. In periods of macroeconomic stress or acute banking panic, risk-averse depositors might effortlessly migrate their deposits from commercial bank accounts into the absolute safety of a sovereign CBDC with a single smartphone click. Such a digital 'bank run' could rapidly drain liquidity from commercial lenders, constricting private credit creation and impairing monetary transmission. To mitigate this hazard, policymakers have contemplated imposing zero-interest caps and stringent holding limits on retail wallets, striking a delicate balance between fostering financial inclusion and safeguarding the bedrock of fractional reserve banking."
+    ],
+    "questions": [
+      {
+        "id": "rc-01-q1",
+        "type": "Primary Purpose",
+        "question": "What is the primary purpose of the author in the passage?",
+        "options": [
+          "To vehemently criticize commercial banks for resisting sovereign digital financial innovations.",
+          "To explain the nature of retail CBDCs, their strategic advantages, and the systemic risks they pose to commercial banking.",
+          "To advocate for the complete eradication of physical cash in favor of unregulated private cryptocurrencies.",
+          "To demonstrate how digital payment gateways cause financial instability during macroeconomic shocks.",
+          "To compare the operational profitability of commercial banks versus central banks."
+        ],
+        "correctAnswer": 1,
+        "explanation": "The passage provides an objective analysis of CBDCs: defining what they are in paragraph 1, highlighting their strategic benefits (offline P2P, reduced intermediaries) in paragraph 2, and delineating structural risks (bank disintermediation and digital runs) in paragraph 3.",
+        "examTip": "Primary purpose questions require capturing the overall arc of the passage. Beware of options that focus only on a single paragraph.",
+        "trapAlert": "Option A is too extreme ('vehemently criticize'). Author's tone is balanced and analytical."
+      },
+      {
+        "id": "rc-01-q2",
+        "type": "Inference",
+        "question": "Which of the following can be logically inferred regarding commercial bank disintermediation?",
+        "options": [
+          "It guarantees an automatic surge in corporate lending and long-term infrastructure credit.",
+          "It occurs only when physical banknotes are fully withdrawn from general circulation.",
+          "Depositors shifting funds to sovereign CBDCs during panic could impair commercial banks' capacity to extend credit.",
+          "Zero-interest caps will completely eliminate all consumer interest in using retail digital wallets.",
+          "Central banks intend to replace all private payment apps with a mandatory state monopoly."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Paragraph 3 explicitly notes that if depositors migrate deposits to CBDC during panic, it could 'rapidly drain liquidity from commercial lenders, constricting private credit creation'.",
+        "examTip": "Inference questions must be grounded in explicit textual evidence without overextrapolating.",
+        "trapAlert": "Option D uses extreme phrasing ('completely eliminate all consumer interest')."
+      },
+      {
+        "id": "rc-01-q3",
+        "type": "Vocabulary in Context",
+        "question": "Which of the following is most nearly SIMILAR in meaning to the word 'FRAUGHT' as used in the passage ('fraught with structural dilemmas')?",
+        "options": [
+          "Devoid",
+          "Teeming / Laden",
+          "Impartial",
+          "Unambiguous",
+          "Beneficial"
+        ],
+        "correctAnswer": 1,
+        "explanation": "In context, 'fraught with' means full of, laden with, or accompanied by undesirable problems or dilemmas.",
+        "examTip": "Always read the full sentence where the word appears before picking a synonym.",
+        "trapAlert": "Don't confuse 'fraught' with 'fought' or 'freight'."
+      },
+      {
+        "id": "rc-01-q4",
+        "type": "Fact-Based",
+        "question": "According to the passage, how does retail CBDC fundamentally differ from commercial bank money?",
+        "options": [
+          "Commercial bank money yields higher physical tokens, whereas CBDC is exclusively paper-based.",
+          "CBDC represents a direct sovereign liability of the central monetary authority, whereas commercial bank deposits are institutional liabilities.",
+          "Retail CBDC requires physical cheques for cross-border settlement, while commercial bank deposits do not.",
+          "Commercial bank money carries zero institutional risk during a severe banking panic.",
+          "CBDC cannot be exchanged for physical currency notes at par value."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Paragraph 1 explicitly states: 'Unlike commercial bank money—which constitutes an institutional liability... a retail CBDC represents a direct sovereign liability of the monetary authority'.",
+        "examTip": "Locate the contrast keywords: 'Unlike commercial bank money...'.",
+        "trapAlert": "Option E contradicts the passage, which says CBDC is 'fungible with physical currency notes at par'."
+      },
+      {
+        "id": "rc-01-q5",
+        "type": "Tone of Author",
+        "question": "Which of the following best characterizes the author's tone throughout the passage?",
+        "options": [
+          "Sarcastic and cynical",
+          "Analytical and balanced",
+          "Overly exuberant and promotional",
+          "Nostalgic and regretful",
+          "Dismissive and hostile"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The author systematically examines both the transformative potential and the prudential hazards of CBDCs with measured, academic language.",
+        "examTip": "Banking RC passages are predominantly 'Analytical', 'Objective', or 'Cautiously Optimistic'. Extreme emotional tones are rarely correct.",
+        "trapAlert": "Avoid extreme adjectives like 'hostile' or 'overly exuberant'."
+      }
+    ]
+  },
+  {
+    "id": "rc-02",
+    "title": "Inflation Targeting and the Supply-Side Conundrum in Emerging Economies",
+    "genre": "Macroeconomics & Monetary Policy",
+    "wordCount": 440,
+    "difficulty": "Hard",
+    "pyqTag": "IBPS Clerk Mains 2024 Shift 1",
+    "readingTimeMinutes": 2.8,
+    "paragraphs": [
+      "Flexible inflation targeting has emerged as the orthodox benchmark for contemporary central banking. Pioneered by advanced economies, the framework rests on the foundational premise that anchoring consumer price inflation within a predictable target band anchors public expectations, dampens macroeconomic uncertainty, and fosters sustainable long-term capital investment. By adjusting policy interest rates, the central bank influences the cost of borrowing, dampens aggregate consumer demand, and thereby tames demand-pull inflationary pressures.",
+      "However, the operational efficacy of demand-side monetary levers encounters profound structural impediments within developing and emerging market economies. In countries where consumer price indexes are disproportionately weighted toward food staples and imported energy fuels, inflationary spikes are predominantly supply-driven rather than induced by excessive domestic credit or consumer exuberance. Unseasonal monsoon precipitation, pest infestations, global crude oil supply disruptions, and geopolitical embargoes exert sharp upward shocks on headline numbers that remain impervious to domestic interest rate hikes.",
+      "When monetary authorities reflexively tighten borrowing rates to combat supply-side supply bottlenecks, the policy risks aggravating the underlying distress. Higher interest rates do not produce more tomatoes or accelerate container freight through maritime choke points; instead, they increase working capital expenses for agricultural logistics, chill industrial capital expenditure, and compress employment. While persistent food inflation risks bleeding into wage-price spirals and contaminating broader core inflation, a dogmatic reliance on blunt monetary levers without complementary fiscal supply interventions can inadvertently induce stagflationary headwinds."
+    ],
+    "questions": [
+      {
+        "id": "rc-02-q1",
+        "type": "Main Idea",
+        "question": "Which of the following best captures the central thesis expounded in the passage?",
+        "options": [
+          "Inflation targeting is an obsolete doctrine that must be completely abandoned by all central banks.",
+          "Supply-side food and fuel shocks in emerging economies expose the structural limitations of conventional demand-side monetary tightening.",
+          "Monetary policy alone is universally sufficient to eliminate agricultural logistics bottlenecks.",
+          "Developing economies should prioritize industrial expansion by permanently maintaining near-zero interest rates.",
+          "Central banks should never monitor food prices because agriculture is independent of the formal economy."
+        ],
+        "correctAnswer": 1,
+        "explanation": "The passage argues that while inflation targeting manages demand-pull inflation well, in emerging economies with high food/energy weights, supply shocks limit the effectiveness of interest rate hikes and can cause economic pain.",
+        "examTip": "The main thesis bridges paragraph 1 (orthodoxy of demand-side tightening) with paragraphs 2 and 3 (the mismatch when facing supply-side shocks).",
+        "trapAlert": "Option A is too sweeping; the author says it has limitations with supply shocks, not that it must be totally discarded."
+      },
+      {
+        "id": "rc-02-q2",
+        "type": "Inference",
+        "question": "What is the primary danger highlighted when a central bank aggressively raises rates during a supply-shock inflation episode?",
+        "options": [
+          "It will cause foreign investors to pull all liquidity from government debt securities.",
+          "It will immediately eradicate agricultural hoarding across rural trading centers.",
+          "It increases capital costs and dampens investment without resolving the root supply shortages, risking stagflation.",
+          "It leads to hyperinflation within the wholesale commodities trading exchanges.",
+          "It forces commercial banks to stop honoring retail cash withdrawals."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Paragraph 3 explicitly notes: 'Higher interest rates do not produce more tomatoes... instead, they increase working capital expenses... and compress employment... can inadvertently induce stagflationary headwinds.'",
+        "examTip": "Watch for the exact cause-and-effect stated in the final paragraph.",
+        "trapAlert": "Option D suggests 'hyperinflation', which is an exaggeration."
+      },
+      {
+        "id": "rc-02-q3",
+        "type": "Vocabulary in Context",
+        "question": "Which of the following is most nearly OPPOSITE in meaning to the word 'DOGMATIC' as used in the passage ('dogmatic reliance on blunt monetary levers')?",
+        "options": [
+          "Pragmatic / Flexible",
+          "Rigid",
+          "Authoritarian",
+          "Stubborn",
+          "Inflexible"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Dogmatic' means following principles rigidly without considering practical circumstances. The antonym is 'pragmatic' or 'flexible'.",
+        "examTip": "Check whether the question asks for SYNONYM or OPPOSITE (Antonym). This is one of the most common exam traps!",
+        "trapAlert": "Options B, C, D, and E are all synonyms of dogmatic."
+      }
+    ]
+  }
+]

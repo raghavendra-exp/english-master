@@ -1,0 +1,233 @@
+[
+  {
+    "id": "ew-01",
+    "word": "ubiquitous",
+    "ipa": "/juːˈbɪk.wɪ.təs/",
+    "pos": "adjective",
+    "meaningEn": "present, appearing, or found everywhere simultaneously",
+    "meaningHi": "सर्वव्यापी / हर जगह मौजूद",
+    "editorialContext": "UPI QR codes have transitioned from a tech novelty into a ubiquitous medium of retail commerce across Indian bazaars.",
+    "synonyms": [
+      "omnipresent",
+      "pervasive",
+      "universal",
+      "rampant"
+    ],
+    "antonyms": [
+      "rare",
+      "scarce",
+      "infrequent",
+      "isolated"
+    ],
+    "collocations": [
+      "ubiquitous presence",
+      "ubiquitous technology",
+      "ubiquitous smartphone"
+    ],
+    "difficulty": "Moderate",
+    "category": "Technology & Economy",
+    "pyqOccurrence": "SBI Clerk Mains 2023, IBPS PO Prelims 2022"
+  },
+  {
+    "id": "ew-02",
+    "word": "prudential",
+    "ipa": "/pruːˈden.ʃəl/",
+    "pos": "adjective",
+    "meaningEn": "involving or showing care, foresight, and discretion in business or financial matters",
+    "meaningHi": "विवेकी / दूरदर्शी / सतर्क",
+    "editorialContext": "The Reserve Bank enforced strict prudential norms to curb unsecured personal loan proliferation.",
+    "synonyms": [
+      "judicious",
+      "circumspect",
+      "cautious",
+      "sagacious",
+      "provident"
+    ],
+    "antonyms": [
+      "imprudent",
+      "reckless",
+      "heedless",
+      "rash"
+    ],
+    "collocations": [
+      "prudential regulations",
+      "prudential provisioning",
+      "prudential foresight"
+    ],
+    "difficulty": "Moderate",
+    "category": "Banking & Regulation",
+    "pyqOccurrence": "IBPS Clerk Mains 2024, SBI Clerk 2022"
+  },
+  {
+    "id": "ew-03",
+    "word": "exacerbate",
+    "ipa": "/ɪɡˈzæs.ə.beɪt/",
+    "pos": "verb",
+    "meaningEn": "to make a problem, bad situation, or negative feeling worse",
+    "meaningHi": "और अधिक बिगाड़ना / बदतर बना देना",
+    "editorialContext": "Geopolitical disruptions in the Red Sea threaten to exacerbate maritime shipping freight costs and trade deficits.",
+    "synonyms": [
+      "aggravate",
+      "worsen",
+      "inflame",
+      "intensify"
+    ],
+    "antonyms": [
+      "alleviate",
+      "mitigate",
+      "ameliorate",
+      "soothe"
+    ],
+    "collocations": [
+      "exacerbate the crisis",
+      "exacerbate inflation",
+      "exacerbate vulnerabilities"
+    ],
+    "difficulty": "Hard",
+    "category": "International Trade & Macroeconomics",
+    "pyqOccurrence": "SBI Clerk Prelims 2024, IBPS Clerk 2023"
+  },
+  {
+    "id": "ew-04",
+    "word": "ameliorate",
+    "ipa": "/əˈmiː.li.ə.reɪt/",
+    "pos": "verb",
+    "meaningEn": "to make something bad or unsatisfactory better; improve",
+    "meaningHi": "सुधारना / बेहतर बनाना / स्थिति को हल्का करना",
+    "editorialContext": "Subsidized crop insurance schemes aim to ameliorate agricultural distress caused by erratic monsoons.",
+    "synonyms": [
+      "improve",
+      "better",
+      "alleviate",
+      "enhance",
+      "mitigate"
+    ],
+    "antonyms": [
+      "worsen",
+      "exacerbate",
+      "deteriorate"
+    ],
+    "collocations": [
+      "ameliorate conditions",
+      "ameliorate poverty",
+      "ameliorate the impact"
+    ],
+    "difficulty": "Hard",
+    "category": "Social & Rural Economy",
+    "pyqOccurrence": "IBPS RRB Scale-I 2023, SBI Clerk Mains 2021"
+  },
+  {
+    "id": "ew-05",
+    "word": "resilience",
+    "ipa": "/rɪˈzɪl.jəns/",
+    "pos": "noun",
+    "meaningEn": "the capacity to recover quickly from difficulties; toughness",
+    "meaningHi": "लचीलापन / पुनः संभलने की क्षमता",
+    "editorialContext": "The domestic banking sector displayed remarkable resilience against global financial contagion.",
+    "synonyms": [
+      "robustness",
+      "tenacity",
+      "fortitude",
+      "durability"
+    ],
+    "antonyms": [
+      "fragility",
+      "vulnerability",
+      "weakness"
+    ],
+    "collocations": [
+      "financial resilience",
+      "economic resilience",
+      "display resilience"
+    ],
+    "difficulty": "Moderate",
+    "category": "Banking & Macroeconomics",
+    "pyqOccurrence": "SBI Clerk Mains 2023, IBPS Clerk 2022"
+  },
+  {
+    "id": "ew-06",
+    "word": "reticence",
+    "ipa": "/ˈret.ɪ.səns/",
+    "pos": "noun",
+    "meaningEn": "the quality of being reserved or uncommunicative; reluctance to speak freely",
+    "meaningHi": "अल्पभाषिता / संकोच / मौन",
+    "editorialContext": "The auditor noted management's curious reticence when questioned about related-party transactions.",
+    "synonyms": [
+      "reserve",
+      "reluctance",
+      "taciturnity",
+      "inhibition"
+    ],
+    "antonyms": [
+      "candor",
+      "frankness",
+      "loquacity",
+      "openness"
+    ],
+    "collocations": [
+      "unusual reticence",
+      "reticence to disclose",
+      "break one's reticence"
+    ],
+    "difficulty": "Hard",
+    "category": "Corporate Governance & Ethics",
+    "pyqOccurrence": "IBPS Clerk 2023, SBI Clerk 2020"
+  },
+  {
+    "id": "ew-07",
+    "word": "solvency",
+    "ipa": "/ˈsɒl.vən.si/",
+    "pos": "noun",
+    "meaningEn": "the ability of a company or bank to meet its long-term financial obligations",
+    "meaningHi": "ऋणशोधन क्षमता / दिवालियापन से मुक्ति",
+    "editorialContext": "Capital adequacy ratios are designed to safeguard bank solvency even during severe macro stress.",
+    "synonyms": [
+      "financial health",
+      "stability",
+      "liquidity",
+      "creditworthiness"
+    ],
+    "antonyms": [
+      "insolvency",
+      "bankruptcy",
+      "default"
+    ],
+    "collocations": [
+      "maintain solvency",
+      "solvency ratio",
+      "threaten solvency"
+    ],
+    "difficulty": "Moderate",
+    "category": "Banking & Finance",
+    "pyqOccurrence": "SBI Clerk Mains 2022, RRB Office Assistant 2023"
+  },
+  {
+    "id": "ew-08",
+    "word": "myopic",
+    "ipa": "/maɪˈɒp.ɪk/",
+    "pos": "adjective",
+    "meaningEn": "short-sighted; lacking foresight or intellectual discernment",
+    "meaningHi": "अदूरदर्शी / संकीर्ण",
+    "editorialContext": "Slashing cybersecurity budgets to boost quarterly margins proved to be a dangerously myopic strategy.",
+    "synonyms": [
+      "short-sighted",
+      "improvident",
+      "narrow-minded",
+      "insular"
+    ],
+    "antonyms": [
+      "farsighted",
+      "visionary",
+      "prescient",
+      "sagacious"
+    ],
+    "collocations": [
+      "myopic view",
+      "myopic policy",
+      "myopic focus"
+    ],
+    "difficulty": "Hard",
+    "category": "Strategy & Management",
+    "pyqOccurrence": "IBPS Clerk Mains 2021, SBI Clerk 2024"
+  }
+]

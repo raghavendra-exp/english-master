@@ -1,0 +1,218 @@
+[
+  {
+    "root": "bene / bon",
+    "meaning": "good, well",
+    "origin": "Latin",
+    "memoryTrick": "Think of 'benefit' or 'bonus' — always positive!",
+    "words": [
+      {
+        "word": "benevolent",
+        "pos": "adjective",
+        "meaning": "kind and generous; charitable",
+        "hindi": "परोपकारी",
+        "example": "The bank launched a benevolent fund for rural drought relief."
+      },
+      {
+        "word": "beneficiary",
+        "pos": "noun",
+        "meaning": "a person who receives advantages or funds",
+        "hindi": "लाभार्थी",
+        "example": "The direct benefit transfer ensures funds reach the intended beneficiary."
+      },
+      {
+        "word": "benign",
+        "pos": "adjective",
+        "meaning": "gentle, harmless, favorable",
+        "hindi": "सौम्य / अनुकूल",
+        "example": "The governor noted that benign inflation conditions support credit growth."
+      },
+      {
+        "word": "benefaction",
+        "pos": "noun",
+        "meaning": "a donation or gift",
+        "hindi": "दान / अनुग्रह",
+        "example": "The micro-finance foundation made a substantial benefaction."
+      }
+    ]
+  },
+  {
+    "root": "mal",
+    "meaning": "bad, evil, ill",
+    "origin": "Latin",
+    "memoryTrick": "Opposite of 'bene'. Think of 'malware' or 'malnutrition'.",
+    "words": [
+      {
+        "word": "malfeasance",
+        "pos": "noun",
+        "meaning": "wrongdoing or misconduct, especially by a public official",
+        "hindi": "कदाचार / दुराचार",
+        "example": "The central investigative agency uncovered corporate malfeasance."
+      },
+      {
+        "word": "malevolent",
+        "pos": "adjective",
+        "meaning": "wishing or doing evil to others",
+        "hindi": "दुर्भावनापूर्ण",
+        "example": "The phishing campaign demonstrated malevolent intent."
+      },
+      {
+        "word": "malignant",
+        "pos": "adjective",
+        "meaning": "harmful, virulent, invasive",
+        "hindi": "हानिकारक / घातक",
+        "example": "Malignant rumors triggered an unexpected bank run."
+      },
+      {
+        "word": "maladroit",
+        "pos": "adjective",
+        "meaning": "clumsy, unskillful, awkward",
+        "hindi": "अदक्ष / बेढंगा",
+        "example": "The CFO's maladroit handling of the press conference depressed share prices."
+      }
+    ]
+  },
+  {
+    "root": "chron",
+    "meaning": "time",
+    "origin": "Greek",
+    "memoryTrick": "Think of 'chronicle' or a 'chronometer' (stopwatch).",
+    "words": [
+      {
+        "word": "anachronistic",
+        "pos": "adjective",
+        "meaning": "outdated; belonging to an earlier period",
+        "hindi": "कालदोषयुक्त / अप्रचलित",
+        "example": "Manual ledger entries are anachronistic in modern digital banking."
+      },
+      {
+        "word": "chronic",
+        "pos": "adjective",
+        "meaning": "persisting for a long time; constantly recurring",
+        "hindi": "दीर्घकालिक",
+        "example": "The cooperative sector suffered from chronic capital inadequacy."
+      },
+      {
+        "word": "chronology",
+        "pos": "noun",
+        "meaning": "arrangement of events in order of occurrence",
+        "hindi": "कालक्रम",
+        "example": "The forensic audit established the exact chronology of unauthorized wire transfers."
+      },
+      {
+        "word": "synchronize",
+        "pos": "verb",
+        "meaning": "to occur or operate at the same time",
+        "hindi": "समकालिक बनाना",
+        "example": "The clearing branches synchronized their batch settlements."
+      }
+    ]
+  },
+  {
+    "root": "greg",
+    "meaning": "flock, herd, group",
+    "origin": "Latin",
+    "memoryTrick": "Think of 'congregation' (a gathering of people).",
+    "words": [
+      {
+        "word": "gregarious",
+        "pos": "adjective",
+        "meaning": "sociable; fond of company",
+        "hindi": "मिलनसार",
+        "example": "Her gregarious personality made her an exceptional customer relationship manager."
+      },
+      {
+        "word": "egregious",
+        "pos": "adjective",
+        "meaning": "outstandingly bad; shocking",
+        "hindi": "अत्यंत निंदनीय / घोर",
+        "example": "The compliance audit flagged egregious breaches of AML protocols."
+      },
+      {
+        "word": "aggregate",
+        "pos": "noun / verb",
+        "meaning": "a whole formed by combining several elements",
+        "hindi": "कुल / समुच्चय",
+        "example": "Aggregate bank deposits grew by 12 percent year-on-year."
+      },
+      {
+        "word": "segregate",
+        "pos": "verb",
+        "meaning": "set apart from the rest; isolate",
+        "hindi": "अलग करना",
+        "example": "Banks must strictly segregate client funds from proprietary trading reserves."
+      }
+    ]
+  },
+  {
+    "root": "cred",
+    "meaning": "believe, trust",
+    "origin": "Latin",
+    "memoryTrick": "Think of 'credit card' — the bank trusts you to pay back!",
+    "words": [
+      {
+        "word": "credible",
+        "pos": "adjective",
+        "meaning": "able to be believed; convincing",
+        "hindi": "विश्वसनीय",
+        "example": "The borrower failed to present a credible business turnaround plan."
+      },
+      {
+        "word": "credulous",
+        "pos": "adjective",
+        "meaning": "too ready to believe things; gullible",
+        "hindi": "भोला / सहज विश्वासी",
+        "example": "Credulous depositors fell victim to high-yield ponzi schemes."
+      },
+      {
+        "word": "credence",
+        "pos": "noun",
+        "meaning": "belief in or acceptance of something as true",
+        "hindi": "विश्वास / साख",
+        "example": "The rating upgrade lent credence to the commercial paper issuance."
+      },
+      {
+        "word": "incredulous",
+        "pos": "adjective",
+        "meaning": "unwilling or unable to believe something",
+        "hindi": "अविश्वासी / चकित",
+        "example": "Analysts were incredulous when the startup reported sudden profits."
+      }
+    ]
+  },
+  {
+    "root": "omni",
+    "meaning": "all, every",
+    "origin": "Latin",
+    "memoryTrick": "Think of 'omnipresent' — present everywhere.",
+    "words": [
+      {
+        "word": "omnipotent",
+        "pos": "adjective",
+        "meaning": "having unlimited power",
+        "hindi": "सर्वशक्तिमान",
+        "example": "No regulatory body is omnipotent; judicial checks always apply."
+      },
+      {
+        "word": "omniscient",
+        "pos": "adjective",
+        "meaning": "knowing everything",
+        "hindi": "सर्वज्ञ",
+        "example": "Algorithms are not omniscient; algorithmic bias still requires human oversight."
+      },
+      {
+        "word": "omnipresent",
+        "pos": "adjective",
+        "meaning": "widely or constantly encountered; widespread",
+        "hindi": "सर्वव्यापी",
+        "example": "QR code merchant payments have become omnipresent across tier-3 towns."
+      },
+      {
+        "word": "omnivorous",
+        "pos": "adjective",
+        "meaning": "taking in or consuming everything",
+        "hindi": "सर्वभक्षी",
+        "example": "The private equity fund had an omnivorous appetite for fintech acquisitions."
+      }
+    ]
+  }
+]

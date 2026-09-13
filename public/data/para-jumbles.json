@@ -1,0 +1,82 @@
+[
+  {
+    "id": "pj-01",
+    "title": "Corporate Debt Resolution and the Insolvency Framework",
+    "type": "5-Sentence Para Jumble",
+    "difficulty": "Moderate",
+    "pyqTag": "SBI Clerk Mains 2023",
+    "sentences": [
+      {
+        "id": "A",
+        "text": "This protracted judicial congestion frequently led to severe asset value erosion before liquidation could even begin."
+      },
+      {
+        "id": "B",
+        "text": "Consequently, resolving non-performing corporate accounts often dragged on across multiple decades under archaic debt recovery tribunals."
+      },
+      {
+        "id": "C",
+        "text": "Prior to the legislative enactment of the Insolvency and Bankruptcy Code (IBC), Indian lenders struggled with an exceedingly fragmented resolution landscape."
+      },
+      {
+        "id": "D",
+        "text": "To dismantle this systemic logjam, the new code introduced a time-bound corporate insolvency resolution process anchored by professional resolution practitioners."
+      },
+      {
+        "id": "E",
+        "text": "As a result of this paradigm shift, the balance of bargaining power decisively migrated from recalcitrant corporate promoters to financial creditors."
+      }
+    ],
+    "correctSequence": [
+      "C",
+      "B",
+      "A",
+      "D",
+      "E"
+    ],
+    "clues": {
+      "openingClue": "Sentence C introduces the independent background ('Prior to the legislative enactment of the IBC...') and mentions the core subject without relying on dangling pronouns or conjunctions.",
+      "connectingClue": "Sentence B ('Consequently, resolving...') follows directly from the fragmented landscape mentioned in C, showing its immediate outcome.",
+      "pronounClue": "Sentence A ('This protracted judicial congestion...') refers back to the multiple decades of drag mentioned in B.",
+      "solutionClue": "Sentence D ('To dismantle this systemic logjam, the new code introduced...') presents the legislative solution to the problem described in C-B-A.",
+      "conclusionClue": "Sentence E ('As a result of this paradigm shift...') summarizes the ultimate positive structural outcome."
+    }
+  },
+  {
+    "id": "pj-02",
+    "title": "Monetary Policy Transmission and Benchmark Lending Rates",
+    "type": "4-Sentence Para Jumble",
+    "difficulty": "Easy",
+    "pyqTag": "IBPS Clerk Prelims 2024",
+    "sentences": [
+      {
+        "id": "A",
+        "text": "To remedy this persistent lag, the banking regulator mandated an external benchmark-linked lending rate (EBLR) framework."
+      },
+      {
+        "id": "B",
+        "text": "Historically, commercial banks were notoriously sluggish in passing policy rate reductions to retail loan borrowers."
+      },
+      {
+        "id": "C",
+        "text": "Consequently, borrowers now experience immediate relief in their loan EMIs whenever the repo rate is cut."
+      },
+      {
+        "id": "D",
+        "text": "Under the internal base rate regimes, banks frequently cited high cost of deposits to delay interest rate cuts."
+      }
+    ],
+    "correctSequence": [
+      "B",
+      "D",
+      "A",
+      "C"
+    ],
+    "clues": {
+      "openingClue": "Sentence B introduces the historical context and the main subject ('Historically, commercial banks were notoriously sluggish...').",
+      "connectingClue": "Sentence D explains WHY banks were sluggish under earlier regimes ('Under the internal base rate regimes, banks frequently cited...').",
+      "solutionClue": "Sentence A presents the regulatory remedy ('To remedy this persistent lag, the regulator mandated EBLR...').",
+      "conclusionClue": "Sentence C shows the final beneficiary outcome ('Consequently, borrowers now experience immediate relief...')."
+    }
+  }
+]

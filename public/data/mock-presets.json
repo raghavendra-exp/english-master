@@ -1,0 +1,96 @@
+[
+  {
+    "id": "sbi-clerk-prelims-full",
+    "title": "SBI Clerk Prelims Full English Mock",
+    "badge": "SBI Clerk",
+    "questionsCount": 30,
+    "durationMinutes": 20,
+    "marksPerCorrect": 1.0,
+    "negativeMark": 0.25,
+    "description": "True-to-exam 30-question sectional drill adhering strictly to SBI Clerk Prelims weightage: 9 RC, 5 Error Detection, 5 Cloze Test, 4 Word Swap, 4 Fillers, 3 Spelling.",
+    "filter": {
+      "difficulties": [
+        "Easy",
+        "Moderate"
+      ],
+      "topics": [
+        "reading-comprehension",
+        "error-detection",
+        "cloze-test",
+        "word-swap",
+        "fillers",
+        "spelling"
+      ]
+    }
+  },
+  {
+    "id": "ibps-clerk-prelims-sprint",
+    "title": "IBPS Clerk Prelims 20-Question Speed Drill",
+    "badge": "IBPS Clerk",
+    "questionsCount": 20,
+    "durationMinutes": 14,
+    "marksPerCorrect": 1.0,
+    "negativeMark": 0.25,
+    "description": "High-intensity 20-question speed sprint designed to benchmark your accuracy under intense time pressure (42 seconds/question).",
+    "filter": {
+      "difficulties": [
+        "Easy",
+        "Moderate"
+      ],
+      "topics": [
+        "error-detection",
+        "fillers",
+        "word-swap",
+        "phrase-replacement",
+        "spelling"
+      ]
+    }
+  },
+  {
+    "id": "rrb-office-assistant-mains",
+    "title": "IBPS RRB Office Assistant Mains English",
+    "badge": "RRB Assistant",
+    "questionsCount": 40,
+    "durationMinutes": 28,
+    "marksPerCorrect": 1.0,
+    "negativeMark": 0.25,
+    "description": "Comprehensive 40-question Mains simulation featuring Grammar fundamentals, Vocabulary, Reading Comprehension, and Sentence Rearrangement.",
+    "filter": {
+      "difficulties": [
+        "Easy",
+        "Moderate",
+        "Hard"
+      ],
+      "topics": [
+        "reading-comprehension",
+        "error-detection",
+        "cloze-test",
+        "para-jumbles",
+        "vocabulary",
+        "fillers",
+        "idioms-phrases"
+      ]
+    }
+  },
+  {
+    "id": "grammar-specialist-diagnostic",
+    "title": "Pure Grammar & Syntax Diagnostic Test",
+    "badge": "Grammar Only",
+    "questionsCount": 25,
+    "durationMinutes": 18,
+    "marksPerCorrect": 1.0,
+    "negativeMark": 0.25,
+    "description": "Diagnostic evaluation isolating Subject-Verb Agreement, Tenses, Prepositions, Conditionals, Modifiers, and Conjunctions to evaluate your foundational syntax mastery.",
+    "filter": {
+      "difficulties": [
+        "Moderate",
+        "Hard"
+      ],
+      "topics": [
+        "error-detection",
+        "phrase-replacement",
+        "connectors"
+      ]
+    }
+  }
+]

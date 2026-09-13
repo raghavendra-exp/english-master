@@ -1,0 +1,66 @@
+[
+  {
+    "id": "pv-01",
+    "verb": "call off",
+    "meaning": "to cancel an event or agreement",
+    "hindi": "रद्द करना",
+    "example": "The bank employees union decided to call off the nationwide strike after successful negotiations.",
+    "trap": "Don't confuse with 'put off' (to postpone/delay)."
+  },
+  {
+    "id": "pv-02",
+    "verb": "put off",
+    "meaning": "to postpone, delay, or repel",
+    "hindi": "स्थगित करना / टालना",
+    "example": "The board decided to put off the rights issue until market volatility subsides.",
+    "trap": "'Call off' = cancel permanently. 'Put off' = postpone to a later date."
+  },
+  {
+    "id": "pv-03",
+    "verb": "look into",
+    "meaning": "to investigate or examine carefully",
+    "hindi": "जांच-पड़ताल करना",
+    "example": "The internal vigilance cell was instructed to look into the unauthorized locker access.",
+    "trap": "Do not say 'look into about'."
+  },
+  {
+    "id": "pv-04",
+    "verb": "carry out",
+    "meaning": "to execute, perform, or implement a task/order",
+    "hindi": "अमल में लाना / निष्पादित करना",
+    "example": "The IT team will carry out database maintenance over the weekend.",
+    "trap": "'Carry on' = continue. 'Carry out' = perform an instruction."
+  },
+  {
+    "id": "pv-05",
+    "verb": "come across",
+    "meaning": "to meet or find unexpectedly or by chance",
+    "hindi": "अचानक मिलना / संयोगवश पाना",
+    "example": "While auditing the ledgers, the accountant came across several dormant ledger anomalies.",
+    "trap": "Never say 'come across with' or 'suddenly came across'. 'Across' already implies chance; 'suddenly' is redundant."
+  },
+  {
+    "id": "pv-06",
+    "verb": "bring about",
+    "meaning": "to cause something to happen; effect a change",
+    "hindi": "परिवर्तन लाना / कारण बनना",
+    "example": "Fintech innovations have brought about revolutionary efficiency in remittances.",
+    "trap": "'Bring up' = raise a child/mention a topic. 'Bring about' = cause a change."
+  },
+  {
+    "id": "pv-07",
+    "verb": "rule out",
+    "meaning": "to exclude or eliminate a possibility",
+    "hindi": "खारिज करना / संभावना से बाहर करना",
+    "example": "The central bank did not rule out further tightening if headline inflation rebounds.",
+    "trap": "Commonly used in financial journalism and banking RC passages."
+  },
+  {
+    "id": "pv-08",
+    "verb": "bail out",
+    "meaning": "to provide financial assistance to an enterprise facing bankruptcy",
+    "hindi": "आर्थिक संकट से उबारना (वित्तीय सहायता देना)",
+    "example": "The government refused to bail out the non-bank financial institution without structural restructuring.",
+    "trap": "Essential banking terminology."
+  }
+]
