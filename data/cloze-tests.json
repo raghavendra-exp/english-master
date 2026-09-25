@@ -1,0 +1,156 @@
+[
+  {
+    "id": "cloze-01",
+    "title": "Digital Banking Evolution and Cybersecurity Vigilance",
+    "difficulty": "Moderate",
+    "pyqTag": "SBI Clerk Mains 2024 Pattern",
+    "passage": "The rapid digitization of commercial banking in India has undeniably transformed the delivery of retail financial services. Where account holders once had to endure lengthy queues at physical branch counters, mobile banking applications and instant payment rails now enable seamless round-the-clock transactions. However, this unprecedented convenience has been __(1)__ by an alarming proliferation of sophisticated cyber fraud. Fraudsters are no longer reliant on crude physical skimming; instead, they exploit psychological vulnerabilities through social engineering, deceptive phishing portals, and malicious application links. To __(2)__ these insidious threats, regulatory authorities have directed scheduled commercial banks to institute multi-factor authentication and dynamic fraud risk monitoring systems. Nevertheless, technical safeguards alone remain __(3)__ unless paired with aggressive financial literacy campaigns. A significant percentage of fraudulent breaches occur because unsuspecting depositors __(4)__ their sensitive one-time passwords and credentials to impersonators. Therefore, achieving robust digital banking security requires a __(5)__ strategy that unites state-of-the-art cryptographic architecture with relentless public awareness.",
+    "blanks": [
+      {
+        "blankIndex": 1,
+        "label": "Blank (1)",
+        "options": [
+          {
+            "text": "accompanied",
+            "letter": "A"
+          },
+          {
+            "text": "celebrated",
+            "letter": "B"
+          },
+          {
+            "text": "negated",
+            "letter": "C"
+          },
+          {
+            "text": "diminished",
+            "letter": "D"
+          },
+          {
+            "text": "precluded",
+            "letter": "E"
+          }
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Accompanied' fits both grammatically ('accompanied by') and contextually. The sentence explains that while convenience increased, it was simultaneously joined/accompanied by an increase in fraud.",
+        "whyDistractorsFail": "'Celebrated by' makes no sense with fraud; 'precluded' means prevented (opposite of context); 'negated' is too absolute."
+      },
+      {
+        "blankIndex": 2,
+        "label": "Blank (2)",
+        "options": [
+          {
+            "text": "perpetuate",
+            "letter": "A"
+          },
+          {
+            "text": "mitigate",
+            "letter": "B"
+          },
+          {
+            "text": "aggravate",
+            "letter": "C"
+          },
+          {
+            "text": "foster",
+            "letter": "D"
+          },
+          {
+            "text": "overlook",
+            "letter": "E"
+          }
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Mitigate' means to make less severe, reduce, or lessen. Banks institute safety measures to mitigate (reduce) threats.",
+        "whyDistractorsFail": "'Perpetuate' and 'foster' mean to encourage/prolong (opposite tone); 'aggravate' means to worsen."
+      },
+      {
+        "blankIndex": 3,
+        "label": "Blank (3)",
+        "options": [
+          {
+            "text": "infallible",
+            "letter": "A"
+          },
+          {
+            "text": "sufficient",
+            "letter": "B"
+          },
+          {
+            "text": "inadequate",
+            "letter": "C"
+          },
+          {
+            "text": "superfluous",
+            "letter": "D"
+          },
+          {
+            "text": "redundant",
+            "letter": "E"
+          }
+        ],
+        "correctAnswer": 2,
+        "explanation": "The word 'unless' indicates a shortfall. Technical safeguards remain 'inadequate' (insufficient) on their own unless combined with literacy.",
+        "whyDistractorsFail": "'Sufficient' contradicts the 'unless' clause; 'infallible' means incapable of error."
+      },
+      {
+        "blankIndex": 4,
+        "label": "Blank (4)",
+        "options": [
+          {
+            "text": "withhold",
+            "letter": "A"
+          },
+          {
+            "text": "divulge",
+            "letter": "B"
+          },
+          {
+            "text": "conceal",
+            "letter": "C"
+          },
+          {
+            "text": "safeguard",
+            "letter": "D"
+          },
+          {
+            "text": "scrutinize",
+            "letter": "E"
+          }
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Divulge' means to disclose or reveal private/secret information. Victims fall prey because they reveal/divulge their OTPs.",
+        "whyDistractorsFail": "'Withhold', 'conceal', and 'safeguard' are the exact opposite of what causes a fraud breach."
+      },
+      {
+        "blankIndex": 5,
+        "label": "Blank (5)",
+        "options": [
+          {
+            "text": "unilateral",
+            "letter": "A"
+          },
+          {
+            "text": "comprehensive",
+            "letter": "B"
+          },
+          {
+            "text": "fragmented",
+            "letter": "C"
+          },
+          {
+            "text": "sporadic",
+            "letter": "D"
+          },
+          {
+            "text": "tentative",
+            "letter": "E"
+          }
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Comprehensive' means complete, thorough, all-inclusive. A strategy that combines cryptography with public education is comprehensive.",
+        "whyDistractorsFail": "'Unilateral' means one-sided; 'fragmented' and 'sporadic' (irregular) denote broken, ineffective approaches."
+      }
+    ]
+  }
+]

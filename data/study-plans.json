@@ -1,0 +1,109 @@
+{
+  "startFromZero": {
+    "title": "Start From Zero: 14-Day Grammar & Vocab Foundation",
+    "description": "Specifically structured for aspirants with regional language schooling or weak English fundamentals.",
+    "days": [
+      {
+        "day": 1,
+        "topic": "Parts of Speech & Identifying Nouns / Verbs in Sentences",
+        "tasks": "Learn Nouns, Plurals vs Uncountables, 10 Daily Words, 10 Easy Practice Qs"
+      },
+      {
+        "day": 2,
+        "topic": "Subject-Verb Concord (The Proximity & Parenthetical Rules)",
+        "tasks": "Study 'As well as' vs 'Either/or', 10 S-V Agreement Qs, Flashcards"
+      },
+      {
+        "day": 3,
+        "topic": "Articles & Sound-Based Phonetics",
+        "tasks": "Study A vs An exceptions, The with superlatives, 10 Article Qs, Root Words: bene/mal"
+      },
+      {
+        "day": 4,
+        "topic": "Prepositions & Fixed Collocations",
+        "tasks": "Learn 'abide by', 'adhere to', 'cope with', 15 Preposition Drill Qs"
+      },
+      {
+        "day": 5,
+        "topic": "Tenses: Definite Past Time vs Present Perfect",
+        "tasks": "Master yesterday/ago rules, Stative verbs prohibitions, 10 Tense Qs"
+      },
+      {
+        "day": 6,
+        "topic": "Pronouns & the 231 Polite Etiquette Rule",
+        "tasks": "Study Who vs Whom, Reflexive pronoun restrictions, 10 Pronoun Qs"
+      },
+      {
+        "day": 7,
+        "topic": "Adjectives, Latin Comparatives & Few vs Little",
+        "tasks": "Superior to vs Senior to, Little vs A Little, 15 Modifiers Qs"
+      },
+      {
+        "day": 8,
+        "topic": "Correlative Conjunctions & Parallelism",
+        "tasks": "Hardly... when, No sooner... than, Parallel structure after 'not only'"
+      },
+      {
+        "day": 9,
+        "topic": "Conditional Sentences (Type 1, 2, 3 & Inversion)",
+        "tasks": "Master Had + V3 ➔ would have + V3, Subjunctive were, 15 Conditional Qs"
+      },
+      {
+        "day": 10,
+        "topic": "Non-Finite Verbs: Gerunds after 'To' & Bare Infinitives",
+        "tasks": "'Look forward to + V-ing', Causative verbs 'make/let', 15 Qs"
+      },
+      {
+        "day": 11,
+        "topic": "Introduction to Error Detection Scanner",
+        "tasks": "Solve 20 Error Detection questions with clickable part analysis"
+      },
+      {
+        "day": 12,
+        "topic": "Vocabulary Power & Confusing Words",
+        "tasks": "Affect vs Effect, Principal vs Principle, 20 Confusing Word Pairs"
+      },
+      {
+        "day": 13,
+        "topic": "Fillers Lab & Elimination Techniques",
+        "tasks": "Solve 20 Single and Double Fillers using tone and grammar filters"
+      },
+      {
+        "day": 14,
+        "topic": "Foundation Diagnostic Mock",
+        "tasks": "Take 25-Question Grammar Diagnostic Mock and record mistakes in My Error Book"
+      }
+    ]
+  },
+  "thirtyDayPlan": {
+    "title": "30-Day Comprehensive Bank Exam English Mastery",
+    "description": "A high-yield roadmap taking you from zero to 25+ marks in SBI & IBPS Clerk English.",
+    "phases": [
+      {
+        "phase": "Phase 1: Days 1-7",
+        "focus": "Syntax & Grammar Core",
+        "goal": "Zero errors in Subject-Verb, Tenses, Prepositions, and Conditionals"
+      },
+      {
+        "phase": "Phase 2: Days 8-14",
+        "focus": "Lexicon & Collocations",
+        "goal": "150 Editorial Words, 80 Idioms, 50 Phrasal Verbs, Confusing Words"
+      },
+      {
+        "phase": "Phase 3: Days 15-21",
+        "focus": "Question-Type Mastery",
+        "goal": "Error Detection Scanner, Word Swap, Fillers, Cloze Test Lab"
+      },
+      {
+        "phase": "Phase 4: Days 22-26",
+        "focus": "Reading Comprehension & Speed",
+        "goal": "WPM speed training, Paragraph Mapping, Para Jumbles"
+      },
+      {
+        "phase": "Phase 5: Days 27-30",
+        "focus": "Full Exam Simulation & Error Book Review",
+        "goal": "5 Full Mocks, Scorecard Analytics, 0 Repeat Mistakes"
+      }
+    ]
+  }
+}

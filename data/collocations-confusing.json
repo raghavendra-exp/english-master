@@ -1,0 +1,175 @@
+{
+  "confusingPairs": [
+    {
+      "pair": "Affect vs Effect",
+      "hindiTitle": "प्रभावित करना बनाम प्रभाव",
+      "word1": {
+        "word": "affect",
+        "pos": "verb",
+        "meaning": "to influence or produce a change in something",
+        "example": "Higher repo rates affect consumer borrowing costs."
+      },
+      "word2": {
+        "word": "effect",
+        "pos": "noun",
+        "meaning": "the result or outcome of a cause",
+        "example": "The regulatory circular had an immediate cooling effect on retail loans."
+      },
+      "examTrap": "Remember RAVEN: Remember Affect is a Verb, Effect is a Noun! (Exception: 'effect' as verb = to bring about change; 'affect' as noun = psychological emotion)."
+    },
+    {
+      "pair": "Accept vs Except",
+      "hindiTitle": "स्वीकार करना बनाम के अतिरिक्त",
+      "word1": {
+        "word": "accept",
+        "pos": "verb",
+        "meaning": "to consent to receive or agree to",
+        "example": "The cashier refused to accept torn bank notes."
+      },
+      "word2": {
+        "word": "except",
+        "pos": "preposition / conjunction",
+        "meaning": "not including; other than",
+        "example": "All branches are open today except those in notified containment zones."
+      },
+      "examTrap": "Spelling similarity trap in rapid reading comprehension questions."
+    },
+    {
+      "pair": "Principal vs Principle",
+      "hindiTitle": "मूलधन / प्रधान बनाम सिद्धांत",
+      "word1": {
+        "word": "principal",
+        "pos": "noun / adj",
+        "meaning": "sum of money lent or invested; head of an institution; main",
+        "example": "The borrower repaid the principal amount along with accrued interest."
+      },
+      "word2": {
+        "word": "principle",
+        "pos": "noun",
+        "meaning": "a fundamental truth, doctrine, or moral rule",
+        "example": "The bank operates on the sound principle of prudential risk provisioning."
+      },
+      "examTrap": "Memory Trick: The Princi-PAL is your pal (or money). Princi-PLE ends in 'le' like ru-LE."
+    },
+    {
+      "pair": "Stationary vs Stationery",
+      "hindiTitle": "स्थिर बनाम लेखन सामग्री",
+      "word1": {
+        "word": "stationary",
+        "pos": "adjective",
+        "meaning": "not moving or not intended to be moved",
+        "example": "Credit growth remained stationary throughout the monsoon quarter."
+      },
+      "word2": {
+        "word": "stationery",
+        "pos": "noun",
+        "meaning": "writing materials such as paper, envelopes, pens",
+        "example": "The administrative officer ordered office stationery for the new regional branch."
+      },
+      "examTrap": "Memory Trick: Station-ER-y has 'er' for Envelopes and Erasers. Station-AR-y has 'ar' like c-AR parked still."
+    },
+    {
+      "pair": "Economic vs Economical",
+      "hindiTitle": "आर्थिक बनाम किफ़ायती",
+      "word1": {
+        "word": "economic",
+        "pos": "adjective",
+        "meaning": "relating to the economy, trade, or industry",
+        "example": "The country maintained a robust economic growth rate of 7.2 percent."
+      },
+      "word2": {
+        "word": "economical",
+        "pos": "adjective",
+        "meaning": "giving good value or return for money; frugal, thrifty",
+        "example": "Digital payment channels are far more economical than processing physical paper cheques."
+      },
+      "examTrap": "Never write 'economical policy' or 'economical reform'. It is always 'economic policy' (trade) and 'economical person/solution' (cost-saving)."
+    },
+    {
+      "pair": "Fewer vs Less",
+      "hindiTitle": "कम (गणनीय बनाम अगणनीय)",
+      "word1": {
+        "word": "fewer",
+        "pos": "determiner",
+        "meaning": "used with countable plural nouns (things you can count: 1, 2, 3)",
+        "example": "Fewer customers visit physical branches since the introduction of mobile banking."
+      },
+      "word2": {
+        "word": "less",
+        "pos": "determiner",
+        "meaning": "used with uncountable singular nouns (mass, volume, degree)",
+        "example": "The new scheme requires less paper documentation and zero upfront processing fees."
+      },
+      "examTrap": "Do not say 'less notes' or 'less complaints'. Say 'fewer notes', 'fewer complaints'. Say 'less cash', 'less time'."
+    },
+    {
+      "pair": "Elicit vs Illicit",
+      "hindiTitle": "प्राप्त करना बनाम अवैध",
+      "word1": {
+        "word": "elicit",
+        "pos": "verb",
+        "meaning": "to evoke or draw out a response, reaction, or fact",
+        "example": "The investigative audit failed to elicit clear answers from the branch manager."
+      },
+      "word2": {
+        "word": "illicit",
+        "pos": "adjective",
+        "meaning": "forbidden by law, rules, or custom; illegal",
+        "example": "Strict KYC protocols prevent illicit money transfers into dormant accounts."
+      },
+      "examTrap": "Elicit starts with 'E' for Extract. Illicit starts with 'Il' like Illegal."
+    }
+  ],
+  "collocations": [
+    {
+      "natural": "make a decision",
+      "unnatural": "do a decision",
+      "category": "General Business"
+    },
+    {
+      "natural": "take strict action",
+      "unnatural": "make strict action",
+      "category": "Administration"
+    },
+    {
+      "natural": "curb inflation",
+      "unnatural": "reduce inflation sharply (less formal)",
+      "category": "Banking & Macroeconomics"
+    },
+    {
+      "natural": "bear the brunt",
+      "unnatural": "carry the brunt",
+      "category": "Idiomatic Collocation"
+    },
+    {
+      "natural": "pay dividends",
+      "unnatural": "give dividends (figurative)",
+      "category": "Finance & Metaphor"
+    },
+    {
+      "natural": "mitigate risks",
+      "unnatural": "lighten risks",
+      "category": "Risk Management"
+    },
+    {
+      "natural": "yield results",
+      "unnatural": "produce results (less precise)",
+      "category": "Performance"
+    },
+    {
+      "natural": "raise questions",
+      "unnatural": "lift questions",
+      "category": "Auditing & Scrutiny"
+    },
+    {
+      "natural": "harbor doubts",
+      "unnatural": "keep doubts",
+      "category": "Cognitive Collocation"
+    },
+    {
+      "natural": "breach of contract",
+      "unnatural": "breakage of contract",
+      "category": "Legal Banking"
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "sbi-clerk": {
+    "id": "sbi-clerk",
+    "name": "SBI Clerk (Junior Associate)",
+    "prelims": {
+      "section": "English Language",
+      "questionsCount": 30,
+      "maximumMarks": 30,
+      "durationMinutes": 20,
+      "sectionalTiming": true,
+      "negativeMarking": 0.25,
+      "typicalCutoffRange": "20 - 24 / 30",
+      "topicDistribution": [
+        {
+          "topic": "Reading Comprehension",
+          "typicalWeightage": "8 - 10 Qs",
+          "priority": "🔥 MUST DO"
+        },
+        {
+          "topic": "Cloze Test",
+          "typicalWeightage": "5 - 6 Qs",
+          "priority": "⭐ HIGH PRIORITY"
+        },
+        {
+          "topic": "Error Detection",
+          "typicalWeightage": "5 Qs",
+          "priority": "🔥 MUST DO"
+        },
+        {
+          "topic": "Fillers (Single / Double)",
+          "typicalWeightage": "4 - 5 Qs",
+          "priority": "⭐ HIGH PRIORITY"
+        },
+        {
+          "topic": "Sentence Rearrangement / Para Jumble",
+          "typicalWeightage": "5 Qs",
+          "priority": "⭐ HIGH PRIORITY"
+        },
+        {
+          "topic": "Word Swap / Word Usage",
+          "typicalWeightage": "3 - 5 Qs",
+          "priority": "🟢 IMPORTANT"
+        },
+        {
+          "topic": "Phrase Replacement / Sentence Improvement",
+          "typicalWeightage": "3 - 4 Qs",
+          "priority": "🟢 IMPORTANT"
+        },
+        {
+          "topic": "Spelling Errors",
+          "typicalWeightage": "2 - 3 Qs",
+          "priority": "🟡 MODERATE"
+        }
+      ]
+    },
+    "mains": {
+      "section": "General English",
+      "questionsCount": 40,
+      "maximumMarks": 40,
+      "durationMinutes": 35,
+      "sectionalTiming": true,
+      "negativeMarking": 0.25,
+      "typicalCutoffRange": "25 - 31 / 40",
+      "topicDistribution": [
+        {
+          "topic": "Reading Comprehension (2 Passages)",
+          "typicalWeightage": "12 - 15 Qs",
+          "priority": "🔥 MUST DO"
+        },
+        {
+          "topic": "Error Detection (Multi-sentence / Underlined)",
+          "typicalWeightage": "5 - 7 Qs",
+          "priority": "🔥 MUST DO"
+        },
+        {
+          "topic": "Cloze Test (Advanced Contextual)",
+          "typicalWeightage": "6 - 7 Qs",
+          "priority": "⭐ HIGH PRIORITY"
+        },
+        {
+          "topic": "Para Jumbles / Sentence Connection",
+          "typicalWeightage": "5 Qs",
+          "priority": "⭐ HIGH PRIORITY"
+        },
+        {
+          "topic": "Connectors & Starters",
+          "typicalWeightage": "4 - 5 Qs",
+          "priority": "🟢 IMPORTANT"
+        },
+        {
+          "topic": "Word Swap / Inappropriate Usage",
+          "typicalWeightage": "4 - 5 Qs",
+          "priority": "🟢 IMPORTANT"
+        }
+      ]
+    }
+  },
+  "ibps-clerk": {
+    "id": "ibps-clerk",
+    "name": "IBPS Clerk / Customer Service Associate (CSA)",
+    "prelims": {
+      "section": "English Language",
+      "questionsCount": 30,
+      "maximumMarks": 30,
+      "durationMinutes": 20,
+      "sectionalTiming": true,
+      "negativeMarking": 0.25,
+      "typicalCutoffRange": "19 - 23 / 30",
+      "topicDistribution": [
+        {
+          "topic": "Reading Comprehension",
+          "typicalWeightage": "8 - 10 Qs",
+          "priority": "🔥 MUST DO"
+        },
+        {
+          "topic": "Error Detection",
+          "typicalWeightage": "5 Qs",
+          "priority": "🔥 MUST DO"
+        },
+        {
+          "topic": "Cloze Test",
+          "typicalWeightage": "5 Qs",
+          "priority": "⭐ HIGH PRIORITY"
+        },
+        {
+          "topic": "Fillers / Double Fillers",
+          "typicalWeightage": "5 Qs",
+          "priority": "⭐ HIGH PRIORITY"
+        },
+        {
+          "topic": "Word Swap / Misspelt Words",
+          "typicalWeightage": "5 Qs",
+          "priority": "🟢 IMPORTANT"
+        },
+        {
+          "topic": "Sentence Rearrangement",
+          "typicalWeightage": "5 Qs",
+          "priority": "🟢 IMPORTANT"
+        }
+      ]
+    },
+    "mains": {
+      "section": "General English",
+      "questionsCount": 40,
+      "maximumMarks": 40,
+      "durationMinutes": 35,
+      "sectionalTiming": true,
+      "negativeMarking": 0.25,
+      "typicalCutoffRange": "24 - 30 / 40",
+      "topicDistribution": [
+        {
+          "topic": "Reading Comprehension (Financial / Policy)",
+          "typicalWeightage": "14 - 16 Qs",
+          "priority": "🔥 MUST DO"
+        },
+        {
+          "topic": "Advanced Error Detection",
+          "typicalWeightage": "6 Qs",
+          "priority": "🔥 MUST DO"
+        },
+        {
+          "topic": "Para Completion & Fillers",
+          "typicalWeightage": "6 Qs",
+          "priority": "⭐ HIGH PRIORITY"
+        },
+        {
+          "topic": "Sentence Improvement & Modifiers",
+          "typicalWeightage": "5 Qs",
+          "priority": "⭐ HIGH PRIORITY"
+        },
+        {
+          "topic": "Word Swap & Match the Column",
+          "typicalWeightage": "5 Qs",
+          "priority": "🟢 IMPORTANT"
+        },
+        {
+          "topic": "Connectors & Inversion",
+          "typicalWeightage": "4 Qs",
+          "priority": "🟢 IMPORTANT"
+        }
+      ]
+    }
+  },
+  "rrb-assistant": {
+    "id": "rrb-assistant",
+    "name": "IBPS RRB Office Assistant (Multipurpose)",
+    "mains": {
+      "section": "English Language (Optional vs Hindi)",
+      "questionsCount": 40,
+      "maximumMarks": 40,
+      "durationMinutes": 28,
+      "compositeTiming": true,
+      "negativeMarking": 0.25,
+      "typicalCutoffRange": "22 - 28 / 40",
+      "topicDistribution": [
+        {
+          "topic": "Reading Comprehension (Direct / Story / Economy)",
+          "typicalWeightage": "10 Qs",
+          "priority": "🔥 MUST DO"
+        },
+        {
+          "topic": "Error Detection (Grammar-heavy)",
+          "typicalWeightage": "6 - 8 Qs",
+          "priority": "🔥 MUST DO"
+        },
+        {
+          "topic": "Cloze Test (Story / Social)",
+          "typicalWeightage": "5 - 7 Qs",
+          "priority": "⭐ HIGH PRIORITY"
+        },
+        {
+          "topic": "Fillers (Single / Vocabulary)",
+          "typicalWeightage": "5 Qs",
+          "priority": "⭐ HIGH PRIORITY"
+        },
+        {
+          "topic": "Misspelled Words / Inappropriate Usage",
+          "typicalWeightage": "5 Qs",
+          "priority": "🟢 IMPORTANT"
+        },
+        {
+          "topic": "Sentence Rearrangement (Short)",
+          "typicalWeightage": "5 Qs",
+          "priority": "🟢 IMPORTANT"
+        }
+      ]
+    }
+  }
+}

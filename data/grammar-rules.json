@@ -1,0 +1,528 @@
+[
+  {
+    "id": "subject-verb-agreement",
+    "title": "Subject-Verb Agreement (Syntax)",
+    "hindiTitle": "कर्ता-क्रिया सामंजस्य",
+    "category": "Syntax & Concord",
+    "examWeightage": "Critical (Highest Frequency)",
+    "pyqFrequency": "Appears in 3-5 questions in every Clerk/PO shift",
+    "overview": "The fundamental principle that a singular subject takes a singular verb, and a plural subject takes a plural verb, with complex proximity and parenthetical rules.",
+    "rules": [
+      {
+        "ruleId": "sva-01",
+        "ruleTitle": "Proximity Rule with Either/Or & Neither/Nor",
+        "ruleHindiTitle": "Either/Or और Neither/Nor में निकटता नियम",
+        "formalRule": "When two subjects are joined by 'either...or', 'neither...nor', 'not only...but also', or 'or', the verb agrees with the subject nearest to it.",
+        "easyExplanation": "Look at the subject closest to the verb! If the noun right before the verb is singular, make the verb singular; if it is plural, make the verb plural.",
+        "correctExample": "Neither the manager nor the cashiers were aware of the vault discrepancy.",
+        "wrongExample": "Neither the manager nor the cashiers was aware of the vault discrepancy.",
+        "whyWrong": "'cashiers' is plural and sits closest to the verb, so the verb must be 'were', not 'was'.",
+        "examShortcut": "Cover everything before 'or' / 'nor' / 'but also' with your thumb! Read only the last subject + verb.",
+        "commonTrap": "Don't count both subjects together! It's not addition; only the nearest subject decides the verb.",
+        "pyqReference": "SBI Clerk Prelims 2024 Shift 2; IBPS Clerk 2023"
+      },
+      {
+        "ruleId": "sva-02",
+        "ruleTitle": "Parenthetical Connectors (Along with, As well as, Together with)",
+        "ruleHindiTitle": "Along with, As well as के साथ प्रथम कर्ता नियम",
+        "formalRule": "When two subjects are connected by 'as well as', 'along with', 'together with', 'with', 'accompanied by', 'in addition to', 'like', 'unlike', 'except', the verb agrees with the FIRST subject.",
+        "easyExplanation": "Ignore the extra phrase between commas! The verb always listens ONLY to the very first main person or thing mentioned.",
+        "correctExample": "The Chief Executive Officer, along with senior branch managers, has approved the new retail lending policy.",
+        "wrongExample": "The Chief Executive Officer, along with senior branch managers, have approved the new retail lending policy.",
+        "whyWrong": "'Chief Executive Officer' is singular and is the FIRST subject. 'along with senior branch managers' is just parenthetical information.",
+        "examShortcut": "Cross out the phrase starting from 'as well as / along with' until the comma or verb. The original subject stands bare.",
+        "commonTrap": "Examiners will place a huge plural noun list right before the verb to trick your ear into picking a plural verb.",
+        "pyqReference": "IBPS Clerk Mains 2023 Shift 1; SBI Clerk 2022"
+      },
+      {
+        "ruleId": "sva-03",
+        "ruleTitle": "'One of the' + Plural Noun + Relative Pronoun vs Simple Clause",
+        "ruleHindiTitle": "'One of the' के बाद क्रिया का निर्धारण",
+        "formalRule": "'One of + plural noun' takes a singular verb. BUT 'One of + plural noun + who/which/that' takes a PLURAL verb (agreeing with the plural antecedent). However, 'The ONLY one of + plural noun + who/which/that' takes a SINGULAR verb.",
+        "easyExplanation": "If 'who/that' refers to the group of people, use a plural verb. But if 'the ONLY one' is used, there is only one person, so use a singular verb!",
+        "correctExample": "He is one of those officers who have consistently exceeded their quarterly recovery targets.",
+        "wrongExample": "He is one of those officers who has consistently exceeded their quarterly recovery targets.",
+        "whyWrong": "'who' refers back to 'those officers' (plural), so the relative clause requires 'have', not 'has'.",
+        "examShortcut": "Formula: 'One of the' + Plural Noun = Singular Verb. 'One of the' + Plural Noun + who/that = PLURAL Verb. 'The only one of the' + who/that = SINGULAR Verb.",
+        "commonTrap": "Missing the 'who/that' clause and defaulting to singular because of the word 'One'.",
+        "pyqReference": "IBPS RRB Officer Scale-I 2023; SBI Clerk Mains 2021"
+      },
+      {
+        "ruleId": "sva-04",
+        "ruleTitle": "'A number of' vs 'The number of'",
+        "ruleHindiTitle": "'A number of' बनाम 'The number of'",
+        "formalRule": "'A number of' denotes 'many' and takes a PLURAL verb. 'The number of' specifies a single mathematical figure/statistic and takes a SINGULAR verb.",
+        "easyExplanation": "'A number of' = A lot of (Plural). 'The number of' = A specific count/digit (Singular).",
+        "correctExample": "The number of non-performing loans in the agricultural sector has steadily declined.",
+        "wrongExample": "The number of non-performing loans in the agricultural sector have steadily declined.",
+        "whyWrong": "We are referring to 'The number' (the metric/quantity), which is singular.",
+        "examShortcut": "A = Many (Plural verb). The = Definite figure (Singular verb).",
+        "commonTrap": "Seeing 'loans' right before 'has' and changing it to 'have'.",
+        "pyqReference": "SBI Clerk Prelims 2023; IBPS Clerk 2022"
+      },
+      {
+        "ruleId": "sva-05",
+        "ruleTitle": "Units of Measurement, Distance, Time, and Money",
+        "ruleHindiTitle": "माप, दूरी, समय और मुद्रा की इकाइयाँ",
+        "formalRule": "When a plural noun denotes a specific quantity, amount, distance, or period considered as a single unit or whole, the verb is singular.",
+        "easyExplanation": "Think of the total sum or distance as one single lump or package. 10 kilometers is one distance. 50,000 rupees is one sum.",
+        "correctExample": "Fifty thousand rupees is a substantial amount for an unsecured micro-loan.",
+        "wrongExample": "Fifty thousand rupees are a substantial amount for an unsecured micro-loan.",
+        "whyWrong": "'Fifty thousand rupees' is viewed here as a single unified amount of money.",
+        "examShortcut": "If the sentence uses 'a substantial amount / a long distance / a long time' in the predicate, the subject is acting as a single unit (Singular verb).",
+        "commonTrap": "If the money is spent individually on different items, it becomes plural: 'The rupees were distributed among the workers.'",
+        "pyqReference": "RRB Clerk Mains 2022; IBPS Clerk 2020"
+      }
+    ]
+  },
+  {
+    "id": "tenses",
+    "title": "Tenses & Aspect (Verb Timelines)",
+    "hindiTitle": "काल और क्रिया समय-रेखा",
+    "category": "Verbal Architecture",
+    "examWeightage": "High",
+    "pyqFrequency": "2-3 questions per paper in Error Detection & Sentence Improvement",
+    "overview": "Mastering precise time markers, past perfect double actions, stative verbs, and sequence of tenses across independent and subordinate clauses.",
+    "rules": [
+      {
+        "ruleId": "ten-01",
+        "ruleTitle": "Simple Past with Specific Past Time Markers",
+        "ruleHindiTitle": "निश्चित भूतकाल समय सूचकों के साथ Simple Past",
+        "formalRule": "When a sentence contains a definite past time adverb (yesterday, ago, last night, last year, in 1947, on Monday), Simple Past (V2) MUST be used, NOT Present Perfect.",
+        "easyExplanation": "If you see a calendar date or past time word (like 'yesterday', 'ago', 'in 2021'), you cannot use 'have/has'!",
+        "correctExample": "The Reserve Bank of India lowered the benchmark repo rate by 25 basis points yesterday.",
+        "wrongExample": "The Reserve Bank of India has lowered the benchmark repo rate by 25 basis points yesterday.",
+        "whyWrong": "'Yesterday' anchors the event in finished past time, which rejects the present connection of 'has lowered'.",
+        "examShortcut": "Look for words like: yesterday, ago, last month, in 2020. If present, strike out 'have/has' immediately!",
+        "commonTrap": "In spoken Indian English, people often say 'I have seen him yesterday', which banking exams aggressively penalize.",
+        "pyqReference": "SBI Clerk Mains 2024 Shift 1; IBPS Clerk Prelims 2023"
+      },
+      {
+        "ruleId": "ten-02",
+        "ruleTitle": "Double Past Actions (Past Perfect + Simple Past)",
+        "ruleHindiTitle": "दोहरे भूतकाल कार्य (Past Perfect + Simple Past)",
+        "formalRule": "When two actions happened in the past, the earlier completed action takes Past Perfect (had + V3), and the subsequent action takes Simple Past (V2).",
+        "easyExplanation": "The first action that finished gets 'had + 3rd form'. The second action that followed gets normal past tense (V2).",
+        "correctExample": "The fraudulent transactions had already cleared before the cybersecurity team isolated the compromised server.",
+        "wrongExample": "The fraudulent transactions already cleared before the cybersecurity team isolated the compromised server.",
+        "whyWrong": "Clearing the transactions occurred BEFORE the isolation, so it requires 'had already cleared'.",
+        "examShortcut": "First past action = had + V3. Second past action = V2.",
+        "commonTrap": "Using 'had' with both actions: 'The train had left before he had reached the station' is incorrect.",
+        "pyqReference": "IBPS Clerk Mains 2022; RRB Office Assistant 2021"
+      },
+      {
+        "ruleId": "ten-03",
+        "ruleTitle": "Stative Verbs Prohibited in Continuous Tenses",
+        "ruleHindiTitle": "Stative Verbs का Continuous Tense में निषेध",
+        "formalRule": "Verbs of perception, cognition, emotion, and possession (know, understand, remember, believe, hear, smell, possess, own, consist) are stative and cannot be used in continuous (-ing) forms.",
+        "easyExplanation": "You cannot 'be knowing' something or 'be understanding' a concept in standard English. Use Simple Present: 'I know', 'I understand'.",
+        "correctExample": "The branch auditor now understands the mechanism behind the reconciliation failure.",
+        "wrongExample": "The branch auditor is now understanding the mechanism behind the reconciliation failure.",
+        "whyWrong": "'Understand' is a mental state, not a physical action in progress; it rejects the continuous tense.",
+        "examShortcut": "Check -ing words following 'is/are/was/were'. If it is a feeling, sense, or thought verb, it is almost certainly the error!",
+        "commonTrap": "Confusing action uses with stative uses: 'The soup tastes delicious' (stative) vs 'The chef is tasting the soup' (active physical action).",
+        "pyqReference": "SBI Clerk Prelims 2022; IBPS RRB 2023"
+      },
+      {
+        "ruleId": "ten-04",
+        "ruleTitle": "Since vs For with Perfect & Perfect Continuous Tenses",
+        "ruleHindiTitle": "Since और For का सटीक प्रयोग",
+        "formalRule": "'Since' denotes a specific point in time (since 2018, since Monday, since morning). 'For' denotes a duration or period of time (for 5 years, for two hours). Both must be used with Perfect or Perfect Continuous tenses.",
+        "easyExplanation": "'Since' = Starting point / clock or calendar date. 'For' = Total counted time (number of days, years, hours).",
+        "correctExample": "She has been working in the treasury department for the last six years.",
+        "wrongExample": "She is working in the treasury department since the last six years.",
+        "whyWrong": "Two errors: Using Present Continuous ('is working') instead of Present Perfect Continuous, and using 'since' for a period of time.",
+        "examShortcut": "Period of time (counted numbers like 2 days, 5 years) = FOR. Exact naming of starting moment = SINCE.",
+        "commonTrap": "'For the past...' takes 'for', not 'since'.",
+        "pyqReference": "IBPS Clerk 2024; SBI Clerk 2021"
+      }
+    ]
+  },
+  {
+    "id": "conditional-sentences",
+    "title": "Conditional Sentences (Hypothetical & Real)",
+    "hindiTitle": "शर्त सूचक वाक्य",
+    "category": "Complex Syntax",
+    "examWeightage": "High",
+    "pyqFrequency": "Frequently tested in Sentence Improvement and Error Detection",
+    "overview": "Mastering the structural pairing of condition clauses (if-clauses) and result clauses across Types 0, 1, 2, 3, and inverted structures.",
+    "rules": [
+      {
+        "ruleId": "cond-01",
+        "ruleTitle": "Third Conditional (Unfulfilled Past Condition)",
+        "ruleHindiTitle": "तीसरी शर्त: भूतकाल की अपूर्ण स्थिति",
+        "formalRule": "If + Past Perfect (had + V3) ➔ Result clause: would have / could have / might have + V3. Alternatively, inverted structure: Had + Subject + V3 ➔ would have + V3.",
+        "easyExplanation": "If 'had + 3rd form' appears in the 'if' part, the result MUST have 'would have + 3rd form'. Never put 'would have' inside the 'if' clause!",
+        "correctExample": "If the compliance officer had scrutinized the KYC documents, the bank would have prevented the money laundering attempt.",
+        "wrongExample": "If the compliance officer would have scrutinized the KYC documents, the bank would have prevented the money laundering attempt.",
+        "whyWrong": "'Would have' cannot appear in the conditional ('if') clause. The condition must take 'had + V3'.",
+        "examShortcut": "If-clause CANNOT take 'would', 'could', or 'will'. Scan the 'if' part immediately for forbidden modals!",
+        "commonTrap": "Inversion trap: 'Had the compliance officer scrutinized...' means 'If the officer had scrutinized...'. Both are identical and correct.",
+        "pyqReference": "SBI Clerk Mains 2023; IBPS Clerk 2022"
+      },
+      {
+        "ruleId": "cond-02",
+        "ruleTitle": "Second Conditional (Improbable/Unreal Present Condition)",
+        "ruleHindiTitle": "दूसरी शर्त: काल्पनिक या अवास्तविक वर्तमान",
+        "formalRule": "If + Simple Past (Subjunctive 'were' for all persons) ➔ Result clause: would + V1.",
+        "easyExplanation": "In an imaginary or hypothetical scenario, use 'WERE' with all subjects (I, he, she, it). Then use 'would + base verb'.",
+        "correctExample": "If he were the Governor of the Reserve Bank, he would implement stricter liquidity requirements.",
+        "wrongExample": "If he was the Governor of the Reserve Bank, he would implement stricter liquidity requirements.",
+        "whyWrong": "In hypothetical subjunctive conditions, 'were' is grammatically mandatory even for singular pronouns like 'he' or 'I'.",
+        "examShortcut": "Look for 'If I was you' or 'If he was the manager' ➔ instantly replace 'was' with 'were'.",
+        "commonTrap": "Thinking 'he was' is correct because 'he' is singular. In subjunctive conditionals, 'was' is an error.",
+        "pyqReference": "IBPS RRB Clerk Mains 2023; SBI Clerk 2020"
+      },
+      {
+        "ruleId": "cond-03",
+        "ruleTitle": "First Conditional (Probable Future Condition)",
+        "ruleHindiTitle": "पहली शर्त: संभावित भविष्य",
+        "formalRule": "If + Simple Present (V1/V5) ➔ Result clause: will / can / may + V1. Never use 'will' in both clauses.",
+        "easyExplanation": "When talking about future conditions, keep the 'if' clause in simple present. Only the result clause gets 'will'.",
+        "correctExample": "If inflation remains elevated in the upcoming quarter, the monetary policy committee will hike interest rates.",
+        "wrongExample": "If inflation will remain elevated in the upcoming quarter, the monetary policy committee will hike interest rates.",
+        "whyWrong": "Two 'will's in one conditional sentence is grammatically invalid. The conditional clause must be in Simple Present.",
+        "examShortcut": "Formula: If + Present ➔ Will + V1. No double 'will' allowed!",
+        "commonTrap": "Same rule applies to time conjunctions: 'when', 'as soon as', 'until', 'unless' also take Simple Present, not 'will'.",
+        "pyqReference": "IBPS Clerk Prelims 2024; SBI Clerk 2022"
+      }
+    ]
+  },
+  {
+    "id": "articles",
+    "title": "Articles & Determiners",
+    "hindiTitle": "उपपद और निर्धारक",
+    "category": "Nominal Modifiers",
+    "examWeightage": "Moderate to High",
+    "pyqFrequency": "1-2 questions per shift, often combined with noun modifiers",
+    "overview": "Indefinite articles based on phonetics (sound, not letter), definite article usage with unique geographical and political entities, and zero-article rules.",
+    "rules": [
+      {
+        "ruleId": "art-01",
+        "ruleTitle": "Sound-Based Indefinite Articles (Phonetics Rule)",
+        "ruleHindiTitle": "ध्वनि आधारित उपपद नियम (Phonetics)",
+        "formalRule": "'A' is used before words beginning with a consonant sound. 'An' is used before words beginning with a vowel sound (a, e, i, o, u phonemes).",
+        "easyExplanation": "Listen to the pronunciation, do not look at the spelling! A vowel sound gets 'an'; a consonant sound gets 'a'.",
+        "correctExample": "He submitted an FIR regarding the ATM skimming fraud to a European investigator.",
+        "wrongExample": "He submitted a FIR regarding the ATM skimming fraud to an European investigator.",
+        "whyWrong": "'FIR' is pronounced 'Ef-Eye-Ahr' (starts with vowel sound 'e' ➔ 'an FIR'). 'European' is pronounced 'Yoo-ro-pe-an' (starts with consonant sound 'y' ➔ 'a European').",
+        "examShortcut": "Acronym test: If the first letter sound starts with a vowel (F = ef, H = aitch, M = em, N = en, S = es, X = ex), use 'AN'.",
+        "commonTrap": "'An honest' (h is silent), 'A university' (starts with 'yu' consonant sound), 'An heirloom', 'A one-rupee coin' (starts with 'w' sound).",
+        "pyqReference": "SBI Clerk Prelims 2023; RRB Office Assistant 2022"
+      },
+      {
+        "ruleId": "art-02",
+        "ruleTitle": "The Definite Article with Comparative Structures",
+        "ruleHindiTitle": "तुलनात्मक संरचना में 'The' का प्रयोग",
+        "formalRule": "When parallel progression or comparison is expressed using 'The more... the more...', both comparative adjectives require the definite article 'the'.",
+        "easyExplanation": "When two things increase or decrease together, put 'THE' in front of both sides: 'The higher you climb, the colder it gets.'",
+        "correctExample": "The greater the credit risk of the borrower, the higher the lending interest rate.",
+        "wrongExample": "Greater the credit risk of the borrower, higher the lending interest rate.",
+        "whyWrong": "Both comparative phrases in a parallel proportional structure must be preceded by 'the'.",
+        "examShortcut": "Pattern check: 'The + comparative... the + comparative'. If either 'the' is missing, that is your error!",
+        "commonTrap": "Omitting 'the' before the second comparative clause.",
+        "pyqReference": "IBPS Clerk Mains 2021; SBI Clerk 2023"
+      },
+      {
+        "ruleId": "art-03",
+        "ruleTitle": "Zero Article with Abstract Nouns, Meals, and Sports",
+        "ruleHindiTitle": "Zero Article (उपपद का अभाव)",
+        "formalRule": "No article is used before abstract nouns, materials, names of meals (breakfast, lunch, dinner), languages, and sports when used in a general sense.",
+        "easyExplanation": "Do not put 'the' in front of general words like 'honesty', 'gold', 'dinner', or 'cricket' unless you are talking about a specific instance.",
+        "correctExample": "Integrity is the most critical attribute required in commercial banking.",
+        "wrongExample": "The integrity is the most critical attribute required in the commercial banking.",
+        "whyWrong": "'Integrity' is an abstract noun used in a general sense, so it cannot take the definite article 'the'.",
+        "examShortcut": "Is it a specific item or general quality? If general, drop 'the'.",
+        "commonTrap": "If followed by 'of', it becomes specific and takes 'the': 'The integrity of the internal auditor was questioned.' (Correct).",
+        "pyqReference": "IBPS Clerk 2020; SBI Clerk 2022"
+      }
+    ]
+  },
+  {
+    "id": "prepositions",
+    "title": "Prepositions & Fixed Prepositional Collocations",
+    "hindiTitle": "सम्बन्धबोधक अव्यय और निश्चित पूर्वसर्ग",
+    "category": "Relational Grammar",
+    "examWeightage": "Critical",
+    "pyqFrequency": "3-4 questions per shift in Error Detection, Fillers, and Phrase Replacement",
+    "overview": "Mastering fixed prepositions, subtle distinctions between pairs (between/among, beside/besides, into/in), and verbs that take no prepositions.",
+    "rules": [
+      {
+        "ruleId": "prep-01",
+        "ruleTitle": "Fixed Prepositions with High-Yield Banking Verbs",
+        "ruleHindiTitle": "बैंकिंग क्रियाओं के साथ निश्चित पूर्वसर्ग",
+        "formalRule": "Certain verbs and adjectives are strictly accompanied by specific prepositions: 'abide by', 'abstain from', 'adhere to', 'accused of', 'conducive to', 'prohibit from', 'prevent from', 'deprive of', 'cope with'.",
+        "easyExplanation": "In English, certain words are married to specific prepositions. You cannot change their partners!",
+        "correctExample": "All scheduled commercial banks must adhere to the prompt corrective action guidelines.",
+        "wrongExample": "All scheduled commercial banks must adhere with the prompt corrective action guidelines.",
+        "whyWrong": "'Adhere' takes the fixed preposition 'to', never 'with'.",
+        "examShortcut": "Exam Favorites: 'cope with' (NOT 'cope up with'), 'comply with' (NOT 'comply to'), 'refrain from', 'adhere to'.",
+        "commonTrap": "'Cope up with' is universally used in spoken Indian English but is 100% incorrect in banking exams; the correct idiom is 'cope with'.",
+        "pyqReference": "SBI Clerk Mains 2024 Shift 2; IBPS Clerk 2023"
+      },
+      {
+        "ruleId": "prep-02",
+        "ruleTitle": "Verbs that Reject Prepositions (Direct Transitive Verbs)",
+        "ruleHindiTitle": "पूर्वसर्ग रहित सकर्मक क्रियाएँ",
+        "formalRule": "Transitive verbs such as 'discuss', 'describe', 'order', 'request', 'reach', 'resemble', 'enter', 'attack', 'accompany', and 'comprise' take their objects directly without prepositions in active voice.",
+        "easyExplanation": "Do not put words like 'about', 'to', or 'into' after words like 'discuss', 'order', or 'enter' (a place)!",
+        "correctExample": "The asset liability committee met to discuss the non-performing loan portfolio.",
+        "wrongExample": "The asset liability committee met to discuss about the non-performing loan portfolio.",
+        "whyWrong": "'Discuss' means 'to talk about'. Adding 'about' creates a redundant preposition error.",
+        "examShortcut": "Disallowed pairs: 'discuss about', 'order for', 'resemble with', 'enter into (a room)', 'comprise of'.",
+        "commonTrap": "'Comprise' does NOT take 'of' in active voice ('The board comprises five directors'). However, in passive voice, 'is comprised of' is acceptable.",
+        "pyqReference": "IBPS Clerk Prelims 2023; SBI Clerk 2021"
+      },
+      {
+        "ruleId": "prep-03",
+        "ruleTitle": "Between vs Among",
+        "ruleHindiTitle": "Between बनाम Among",
+        "formalRule": "'Between' is used for two distinct entities, or for more than two when expressing mutual bilateral relationships/treaties. 'Among' is used for more than two entities viewed as an undivided group.",
+        "easyExplanation": "'Between' is usually for 2 things. 'Among' is for 3 or more members of a crowd or group.",
+        "correctExample": "There is a formal bilateral currency swap agreement between the two central banks.",
+        "wrongExample": "There is a formal bilateral currency swap agreement among the two central banks.",
+        "whyWrong": "There are only two central banks involved, so 'between' is mandatory.",
+        "examShortcut": "2 items = Between. 3+ items in a collective group = Among. Treaty/relation between multiple named countries = Between.",
+        "commonTrap": "'Between each...' or 'between every...' is incorrect. Say 'between this and that'.",
+        "pyqReference": "RRB Office Assistant 2023; IBPS Clerk 2020"
+      }
+    ]
+  },
+  {
+    "id": "conjunctions",
+    "title": "Conjunctions & Correlative Pairs",
+    "hindiTitle": "संयोजक और सहसम्बन्धी युग्म",
+    "category": "Syntax & Connectors",
+    "examWeightage": "High",
+    "pyqFrequency": "2-3 questions per shift in Error Detection, Fillers, and Connectors",
+    "overview": "Rigorous pairing of correlative conjunctions, parallel structures following correlative pairs, and inverted negative conjunctions.",
+    "rules": [
+      {
+        "ruleId": "conj-01",
+        "ruleTitle": "Strict Correlative Conjunction Pairings",
+        "ruleHindiTitle": "सहसम्बन्धी संयोजकों के निश्चित जोड़े",
+        "formalRule": "Correlative conjunctions must strictly pair: 'Scarcely / Hardly... when', 'No sooner... than', 'Barely... when', 'Not only... but also', 'Neither... nor', 'Either... or', 'Lest... should', 'Although / Though... yet (or comma)'.",
+        "easyExplanation": "Learn these exact pairs like phone numbers! You can never mix 'No sooner' with 'when', or 'Hardly' with 'than'.",
+        "correctExample": "No sooner had the branch opened than a swarm of customers arrived for sovereign gold bonds.",
+        "wrongExample": "No sooner had the branch opened when a swarm of customers arrived for sovereign gold bonds.",
+        "whyWrong": "'No sooner' must strictly be paired with 'than', never with 'when' or 'then'.",
+        "examShortcut": "Pair Checklist: No sooner ➔ than. Hardly/Scarcely ➔ when. Lest ➔ should. Although ➔ yet.",
+        "commonTrap": "Examiners will frequently substitute 'then' for 'than' with 'No sooner' (spelling trap).",
+        "pyqReference": "SBI Clerk Mains 2023 Shift 2; IBPS Clerk 2022"
+      },
+      {
+        "ruleId": "conj-02",
+        "ruleTitle": "Parallelism with 'Not only... but also'",
+        "ruleHindiTitle": "'Not only... but also' के साथ समानांतर संरचना",
+        "formalRule": "The parts of speech following 'not only' and 'but also' must be strictly parallel (noun with noun, verb with verb, prepositional phrase with prepositional phrase).",
+        "easyExplanation": "Whatever grammatical unit sits right after 'but also' MUST match what sits right after 'not only'!",
+        "correctExample": "The bank not only restructured the debt but also reduced the penal interest rate.",
+        "wrongExample": "The bank not only restructured the debt but also the penal interest rate was reduced.",
+        "whyWrong": "'Not only' is followed by a verb phrase ('restructured the debt'), but 'but also' is followed by a clause ('the penal interest rate was reduced'). They must be parallel.",
+        "examShortcut": "Look at what comes immediately after 'but also'. Then reposition 'not only' so it sits before the exact same grammatical element.",
+        "commonTrap": "Placing 'not only' before the subject instead of before the verb.",
+        "pyqReference": "IBPS Clerk Mains 2024; SBI Clerk 2021"
+      },
+      {
+        "ruleId": "conj-03",
+        "ruleTitle": "Lest + Should (Avoidance of Double Negatives)",
+        "ruleHindiTitle": "Lest + Should और दोहरे नकारात्मक का निषेध",
+        "formalRule": "'Lest' means 'for fear that' or 'so that not'. It must be followed by 'should' (or subjunctive base verb). Because 'lest' is inherently negative, 'not' CANNOT be used with it.",
+        "easyExplanation": "'Lest' already means 'kahin aisa na ho jaye'. Therefore, never write 'not' with 'lest', and always pair it with 'should'!",
+        "correctExample": "Verify the customer's signature carefully lest the clearing house should reject the instrument.",
+        "wrongExample": "Verify the customer's signature carefully lest the clearing house should not reject the instrument.",
+        "whyWrong": "'Lest' already contains negative meaning; adding 'not' creates an illicit double negative.",
+        "examShortcut": "Lest + Subject + SHOULD (No 'not', no 'will', no 'may').",
+        "commonTrap": "Using 'may' or 'will' instead of 'should': 'Lest you will fail' is incorrect.",
+        "pyqReference": "RRB Officer Scale-I 2023; SBI Clerk 2020"
+      }
+    ]
+  },
+  {
+    "id": "adjectives-adverbs",
+    "title": "Adjectives, Adverbs & Inversion",
+    "hindiTitle": "विशेषण, क्रियाविशेषण और वाक्य व्युत्क्रम (Inversion)",
+    "category": "Modifiers & Mechanics",
+    "examWeightage": "High",
+    "pyqFrequency": "2-3 questions per shift in Error Detection & Sentence Improvement",
+    "overview": "Latin comparative adjectives (senior to), order of adjectives, adverbial inversion with negative qualifiers, and confusing modifier pairs.",
+    "rules": [
+      {
+        "ruleId": "adj-01",
+        "ruleTitle": "Latin Comparatives Ending in -or (Preposition 'To' vs 'Than')",
+        "ruleHindiTitle": "-or पर समाप्त होने वाले लैटिन तुलनात्मक विशेषण",
+        "formalRule": "Adjectives of Latin origin ending in '-or' (senior, junior, superior, inferior, prior, anterior, posterior) as well as 'preferable' take the preposition 'to', NEVER 'than'.",
+        "easyExplanation": "Words ending in '-or' (senior, junior, prior) plus 'preferable' hate the word 'than'. Always use 'TO'!",
+        "correctExample": "Her operational banking experience is superior to that of any other applicant.",
+        "wrongExample": "Her operational banking experience is superior than that of any other applicant.",
+        "whyWrong": "'Superior' takes the preposition 'to', never 'than'.",
+        "examShortcut": "If an adjective ends in '-or' or is 'preferable', scan immediately for 'than' and replace it with 'to'. Also never use 'more' before them ('more superior' is redundant).",
+        "commonTrap": "'More preferable than' is a triple error: drop 'more' and change 'than' to 'to' ➔ 'preferable to'.",
+        "pyqReference": "SBI Clerk Prelims 2024; IBPS Clerk 2023"
+      },
+      {
+        "ruleId": "adj-02",
+        "ruleTitle": "Negative Adverb Inversion (Hardly, Scarcely, Seldom, Little)",
+        "ruleHindiTitle": "नकारात्मक क्रियाविशेषण के साथ Inversion नियम",
+        "formalRule": "When a sentence begins with a negative or restrictive adverb (hardly, scarcely, seldom, rarely, barely, neither, nor, under no circumstances, little), inverted word order (Auxiliary Verb + Subject + Main Verb) must be used.",
+        "easyExplanation": "When you put words like 'Seldom', 'Hardly', or 'Never' at the very beginning of a sentence, the helping verb jumps in front of the subject!",
+        "correctExample": "Seldom has the Monetary Policy Committee witnessed such consensus among its external members.",
+        "wrongExample": "Seldom the Monetary Policy Committee has witnessed such consensus among its external members.",
+        "whyWrong": "Starting with 'Seldom' mandates inversion: auxiliary 'has' must precede the subject.",
+        "examShortcut": "Formula: Negative Adverb + Helping Verb + Subject + Main Verb.",
+        "commonTrap": "In past tense: 'Hardly he saw' ➔ Correct: 'Hardly did he see' or 'Hardly had he seen'.",
+        "pyqReference": "IBPS Clerk Mains 2023; SBI Clerk 2022"
+      },
+      {
+        "ruleId": "adj-03",
+        "ruleTitle": "Little vs A Little vs The Little (and Few vs A Few)",
+        "ruleHindiTitle": "Little / A Little / The Little का सूक्ष्म अंतर",
+        "formalRule": "'Little' (uncountable) / 'Few' (countable) = Almost none (negative meaning). 'A little' / 'A few' = Some, a small quantity (positive meaning). 'The little' / 'The few' = The specific small amount that remains.",
+        "easyExplanation": "Without 'a' = Negative (practically nothing). With 'a' = Positive (at least some). With 'the' = Whatever specific amount was there.",
+        "correctExample": "There was little hope of loan recovery because the borrower had declared bankruptcy.",
+        "wrongExample": "There was a little hope of loan recovery because the borrower had declared bankruptcy.",
+        "whyWrong": "Bankruptcy implies there is virtually NO hope (negative context), so the negative word 'little' is required, not 'a little'.",
+        "examShortcut": "Context clue: Does the sentence describe failure, sadness, or lack? Use 'little/few'. Does it describe some progress? Use 'a little/a few'.",
+        "commonTrap": "Using 'few' with uncountable nouns (money, time, advice) instead of 'little'.",
+        "pyqReference": "RRB Clerk 2023; IBPS Clerk 2021"
+      }
+    ]
+  },
+  {
+    "id": "nouns-pronouns",
+    "title": "Nouns, Pronouns & Case Concord",
+    "hindiTitle": "संज्ञा, सर्वनाम और कारक सामंजस्य",
+    "category": "Nominal Mechanics",
+    "examWeightage": "High",
+    "pyqFrequency": "2-3 questions per shift in Error Detection",
+    "overview": "Uncountable nouns masquerading as plurals, singular-plural pairs, order of personal pronouns (231 rule), and relative pronoun usage (who vs whom).",
+    "rules": [
+      {
+        "ruleId": "np-01",
+        "ruleTitle": "Inherently Uncountable Nouns with No Plural Forms",
+        "ruleHindiTitle": "नित्य एकवचन अगणनीय संज्ञाएँ",
+        "formalRule": "Nouns such as 'furniture', 'information', 'scenery', 'luggage', 'baggage', 'advice', 'equipment', 'machinery', 'poetry', 'bread', 'alphabet' are strictly uncountable. They cannot take 's/es' or indefinite articles 'a/an'.",
+        "easyExplanation": "Words like 'information', 'furniture', and 'luggage' can never end with 's' and can never have 'an information' in front of them!",
+        "correctExample": "The auditor requested detailed pieces of information regarding the offshore accounts.",
+        "wrongExample": "The auditor requested detailed informations regarding the offshore accounts.",
+        "whyWrong": "'Information' is an uncountable noun and cannot be pluralized with '-s'.",
+        "examShortcut": "Look for words ending in '-s' like: furnitures, informations, sceneries, machineries. Instant error!",
+        "commonTrap": "To make them countable, say 'pieces of furniture', 'items of luggage', 'a word of advice'.",
+        "pyqReference": "SBI Clerk Prelims 2024; IBPS Clerk 2022"
+      },
+      {
+        "ruleId": "np-02",
+        "ruleTitle": "Order of Personal Pronouns (231 Rule vs 123 Rule)",
+        "ruleHindiTitle": "व्यक्तिवाचक सर्वनामों का क्रम (231 नियम बनाम 123 नियम)",
+        "formalRule": "In normal, polite, or pleasant contexts, pronouns must follow the 231 order (Second person ➔ Third person ➔ First person: You, he, and I). When confessing guilt, error, or in unpleasant contexts, use the 123 order (First ➔ Second ➔ Third: I, you, and he).",
+        "easyExplanation": "In good things: Put others first (You, he, and I = 231). In mistakes or faults: Take the blame first (I, you, and he = 123)!",
+        "correctExample": "You, he, and I have been selected to attend the national digital banking seminar.",
+        "wrongExample": "I, you, and he have been selected to attend the national digital banking seminar.",
+        "whyWrong": "In a positive accomplishment, etiquette dictates 2nd person (You) ➔ 3rd person (he) ➔ 1st person (I).",
+        "examShortcut": "Check pronoun sequence: Good news = 2 ➔ 3 ➔ 1. Blame/Apology = 1 ➔ 2 ➔ 3.",
+        "commonTrap": "'He and you' or 'I and you' in polite business contexts.",
+        "pyqReference": "IBPS Clerk Mains 2021; SBI Clerk 2020"
+      },
+      {
+        "ruleId": "np-03",
+        "ruleTitle": "Who vs Whom (Subjective vs Objective Case)",
+        "ruleHindiTitle": "Who बनाम Whom (कर्ता बनाम कर्म कारक)",
+        "formalRule": "'Who' is a subjective pronoun (acts as the subject performing the verb). 'Whom' is an objective pronoun (acts as the recipient of the action or object of a preposition).",
+        "easyExplanation": "Substitute with 'He' or 'Him'! If 'he' fits, use 'WHO'. If 'him' fits, use 'WHOM'. (He = Who, Him = Whom).",
+        "correctExample": "The customer whom the branch manager interviewed yesterday has filed a formal grievance.",
+        "wrongExample": "The customer who the branch manager interviewed yesterday has filed a formal grievance.",
+        "whyWrong": "The branch manager interviewed HIM (object), so the relative pronoun must be 'whom'.",
+        "examShortcut": "Count the subjects and verbs! If Number of Verbs > Number of Subjects, you need 'WHO' to serve as a subject. If Verbs == Subjects, use 'WHOM'.",
+        "commonTrap": "Inserting parenthetical phrases like 'who they think...' to confuse the pronoun count.",
+        "pyqReference": "SBI Clerk Mains 2023; IBPS RRB Scale-I 2022"
+      }
+    ]
+  },
+  {
+    "id": "non-finite-verbs",
+    "title": "Non-Finite Verbs (Gerunds, Infinitives & Participles)",
+    "hindiTitle": "गैर-सीमित क्रियाएँ (Gerund, Infinitive और Participle)",
+    "category": "Verbal Architecture",
+    "examWeightage": "High",
+    "pyqFrequency": "2-3 questions per shift in Error Detection & Phrase Replacement",
+    "overview": "Phrases with 'to' followed by gerunds, bare infinitives following causative and sensory verbs, and dangling participial modifiers.",
+    "rules": [
+      {
+        "ruleId": "nf-01",
+        "ruleTitle": "Phrases with 'To' followed by Gerund (V1 + ing)",
+        "ruleHindiTitle": "'To' के साथ Gerund (V1 + ing) वाले विशिष्ट मुहावरे",
+        "formalRule": "Although 'to' is normally followed by a bare infinitive (V1), prepositional phrases where 'to' is a true preposition must be followed by a GERUND (V1 + ing): 'look forward to', 'with a view to', 'accustomed to', 'given to', 'prone to', 'addicted to', 'devoted to', 'in addition to'.",
+        "easyExplanation": "Usually 'to' takes 1st form of verb (to go, to eat). BUT in phrases like 'look forward to' or 'with a view to', the 'to' is a preposition, so you MUST add '-ing'!",
+        "correctExample": "The treasury desk is looking forward to stabilizing foreign exchange reserves this quarter.",
+        "wrongExample": "The treasury desk is looking forward to stabilize foreign exchange reserves this quarter.",
+        "whyWrong": "'Look forward to' is a fixed idiom taking a gerund, so it requires 'stabilizing', not 'stabilize'.",
+        "examShortcut": "High-frequency exam triggers: 'looking forward to + V-ing', 'with a view to + V-ing', 'used to + V-ing (when preceded by be/is/are/was)'.",
+        "commonTrap": "Defaulting to base verb V1 because of the presence of 'to'.",
+        "pyqReference": "SBI Clerk Mains 2024 Shift 1; IBPS Clerk 2023"
+      },
+      {
+        "ruleId": "nf-02",
+        "ruleTitle": "Bare Infinitive without 'To' (Causative Verbs)",
+        "ruleHindiTitle": "Bare Infinitive ('To' रहित क्रिया)",
+        "formalRule": "Verbs of perception and causation like 'make', 'let', 'bid', 'watch', 'see', 'hear' take a bare infinitive (V1 without 'to') in the active voice.",
+        "easyExplanation": "After 'make', 'let', and 'see', do NOT use 'to'! Say 'He made me cry', NOT 'He made me to cry'.",
+        "correctExample": "The branch manager made the loan applicant submit certified tax returns.",
+        "wrongExample": "The branch manager made the loan applicant to submit certified tax returns.",
+        "whyWrong": "'Made' is a causative verb and takes a bare infinitive ('submit'), not a full infinitive ('to submit').",
+        "examShortcut": "Causative pattern: Subject + make/let + Object + V1 (no 'to').",
+        "commonTrap": "In passive voice, 'make' DOES take 'to': 'He was made to submit the returns' is correct.",
+        "pyqReference": "IBPS Clerk Prelims 2022; RRB Office Assistant 2021"
+      },
+      {
+        "ruleId": "nf-03",
+        "ruleTitle": "Dangling Participles (Unattached Modifiers)",
+        "ruleHindiTitle": "Dangling Participle (असंलग्न कृदंत)",
+        "formalRule": "A participial phrase at the start of a sentence must logically modify the grammatical subject immediately following the comma.",
+        "easyExplanation": "Whoever is doing the action in the opening phrase must be the subject right after the comma!",
+        "correctExample": "Walking through the currency chest, the inspector discovered an open security seal.",
+        "wrongExample": "Walking through the currency chest, an open security seal was discovered by the inspector.",
+        "whyWrong": "As written, 'an open security seal' appears to be the one 'walking through the currency chest'!",
+        "examShortcut": "Ask: WHO is doing the opening action? If it's not the subject right after the comma, it's a dangling modifier error.",
+        "commonTrap": "'Being a rainy day, I could not go out' ➔ Incorrect! Correct: 'It being a rainy day, I could not go out.'",
+        "pyqReference": "SBI Clerk Mains 2022; IBPS Clerk 2020"
+      }
+    ]
+  },
+  {
+    "id": "parallelism-redundancy",
+    "title": "Parallelism & Superfluous Expressions",
+    "hindiTitle": "समानांतरता और निरर्थक शब्द (Superfluous/Redundancy)",
+    "category": "Stylistic & Structural Precision",
+    "examWeightage": "Moderate to High",
+    "pyqFrequency": "1-2 questions per shift in Sentence Improvement & Error Detection",
+    "overview": "Eliminating redundant words commonly used in colloquial speech and enforcing symmetrical grammatical structures in lists and comparisons.",
+    "rules": [
+      {
+        "ruleId": "pr-01",
+        "ruleTitle": "Redundant/Superfluous Word Combinations",
+        "ruleHindiTitle": "निरर्थक और दोहराव वाले शब्द संयोजन",
+        "formalRule": "Combining words with overlapping meanings creates a grammatical redundancy: 'return back', 'repeat again', 'revert back', 'cousin brother', 'suppose if', 'blunder mistake', 'flee away', 'kindly requested'.",
+        "easyExplanation": "'Re-' already means 'back' or 'again'. 'Return' already means go back. Saying 'return back' is saying 'back back'!",
+        "correctExample": "The customer service representative promised to revert to the account holder by Monday.",
+        "wrongExample": "The customer service representative promised to revert back to the account holder by Monday.",
+        "whyWrong": "'Revert' already denotes going back to an earlier topic; 'back' is totally superfluous.",
+        "examShortcut": "Banned duplicates: 'revert back', 'return back', 'repeat again', 'suppose if', 'blend together', 'adequate enough'.",
+        "commonTrap": "'Cousin brother/sister' is extremely common in colloquial Indian English, but banking exams consider it a strict grammatical error; use only 'cousin'.",
+        "pyqReference": "SBI Clerk Prelims 2023; IBPS RRB 2022"
+      },
+      {
+        "ruleId": "pr-02",
+        "ruleTitle": "Parallelism in Series and Lists",
+        "ruleHindiTitle": "सूचियों और श्रृंखलाओं में समानांतरता",
+        "formalRule": "All items joined by coordinating conjunctions (and, but, or) in a series must maintain identical grammatical forms (e.g., all gerunds, all infinitives, all noun phrases).",
+        "easyExplanation": "Keep the rhythm! If your first item is an '-ing' verb, all items must be '-ing' verbs: 'investing, trading, and saving'.",
+        "correctExample": "The digital strategy focuses on enhancing mobile UI, streamlining onboarding, and mitigating cyber risks.",
+        "wrongExample": "The digital strategy focuses on enhancing mobile UI, to streamline onboarding, and mitigating cyber risks.",
+        "whyWrong": "'to streamline' breaks the parallel series of gerunds ('enhancing', 'mitigating').",
+        "examShortcut": "Inspect the series: Item 1 = Item 2 = Item 3. If one item shifts form, that item is your answer!",
+        "commonTrap": "Mixing clauses with phrases in a list of requirements.",
+        "pyqReference": "IBPS Clerk Mains 2023; SBI Clerk 2021"
+      }
+    ]
+  }
+]

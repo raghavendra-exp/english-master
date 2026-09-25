@@ -1,0 +1,29 @@
+[
+  {
+    "id": "sc-01",
+    "questionType": "Error Detection (Subject-Verb Agreement)",
+    "normalMethod": "Read the whole sentence repeatedly until something 'sounds' strange to your ear.",
+    "fastMethod": "Scan directly for parenthetical connectors ('as well as', 'along with', 'in addition to'). Cross out the intervening clause. Read ONLY the first subject + verb.",
+    "eliminationTrick": "If the verb is plural and preceded by a comma phrase, check if the real subject before the comma is singular.",
+    "commonTrap": "Trusting your acoustic ear! Examiners purposely insert an attractive plural noun right in front of the verb to fool your ear.",
+    "whenNotToUse": "Do NOT apply this shortcut if the connector is 'either... or' or 'neither... nor' (those follow the Proximity Rule, which agrees with the nearest subject)."
+  },
+  {
+    "id": "sc-02",
+    "questionType": "Reading Comprehension (Fact vs Inference)",
+    "normalMethod": "Read the entire 500-word passage word-for-word from start to finish before even looking at the questions.",
+    "fastMethod": "Question-first skimming! Read the question stems first to identify 2-3 unique anchor keywords (e.g. 'disintermediation', 'EBLR', 'monsoon'). Jump directly to that paragraph.",
+    "eliminationTrick": "Extreme word filter: Options containing 'always', 'never', 'completely', 'solely', or 'impossible' are almost always wrong in banking exams.",
+    "commonTrap": "Selecting an option that is factually true in real life, but is NEVER mentioned in the author's passage.",
+    "whenNotToUse": "Do NOT use keyword scanning for 'Main Idea' or 'Tone of the Author' questions. Those require reading the opening and concluding paragraphs."
+  },
+  {
+    "id": "sc-03",
+    "questionType": "Para Jumbles (Sentence Rearrangement)",
+    "normalMethod": "Try out all 5 options by reading every possible permutation (ABCDE, BCADE, etc.), wasting 3 minutes.",
+    "fastMethod": "Identify the Independent Opening Sentence! Look for a noun that introduces the subject without pronouns ('He', 'It', 'These') or transition words ('However', 'Consequently'). Then locate one mandatory pair.",
+    "eliminationTrick": "Check the given options for pairs! If your mandatory pair is (D, A), immediately eliminate any option where D is not followed by A.",
+    "commonTrap": "Mistaking an acronym expansion sentence for the opening when a broader topical sentence preceded it.",
+    "whenNotToUse": "If the question explicitly asks 'Which of the following is the penultimate sentence?', you must assemble the full chain rather than stopping at the first pair."
+  }
+]
